@@ -1,0 +1,201 @@
+age,gender,smoking_habit,work_out_habit,heart_attack,salary,education
+59,Female,Heavy Smoker,None,0,127387,Bachelor's
+48,Female,Non-Smoker,None,0,64314,PhD
+56,Female,Non-Smoker,,0,67394,PhD
+65,Female,Light Smoker,None,0,71546,Bachelor's
+47,Male,Non-Smoker,None,1,39666,High School
+47,Male,Heavy Smoker,,1,52440,Bachelor's
+65,Female,Non-Smoker,None,0,49875,High School
+57,Female,Heavy Smoker,Regularly,0,56966,High School
+45,Female,Non-Smoker,None,0,78959,Bachelor's
+55,Female,Light Smoker,Occasionally,0,87026,Bachelor's
+120,Female,Non-Smoker,Occasionally,0,131515,Master's
+45,Female,Heavy Smoker,Regularly,0,50049,Master's
+52,Female,Non-Smoker,None,0,109529,Master's
+30,Female,Non-Smoker,None,0,73580,Bachelor's
+32,Female,Heavy Smoker,Regularly,0,78516,Bachelor's
+44,Female,Non-Smoker,Regularly,0,100244,Bachelor's
+39,Female,Light Smoker,Regularly,0,46318,PhD
+53,Male,Light Smoker,,0,91472,High School
+40,Male,Non-Smoker,None,0,89993,Master's
+35,Male,Light Smoker,Occasionally,0,94773,Bachelor's
+69,Female,Non-Smoker,Regularly,0,88675,Bachelor's
+47,Male,Heavy Smoker,Occasionally,0,153659,Master's
+50,Male,Non-Smoker,Occasionally,0,60867,Bachelor's
+35,Female,Non-Smoker,None,0,64070,Master's
+,Male,Heavy Smoker,Occasionally,0,61305,Master's
+51,Female,Light Smoker,None,0,63335,Bachelor's
+38,Male,Non-Smoker,None,0,60878,Bachelor's
+53,Male,Light Smoker,Occasionally,1,115670,Bachelor's
+43,Female,Non-Smoker,Occasionally,1,122615,Master's
+47,Male,Non-Smoker,None,0,62877,Bachelor's
+43,Male,Non-Smoker,None,0,60029,Bachelor's
+68,Female,Non-Smoker,Occasionally,0,99142,Bachelor's
+49,Female,Non-Smoker,None,0,,Master's
+,Male,Non-Smoker,Occasionally,1,98987,High School
+58,Female,Heavy Smoker,None,0,86087,Master's
+37,Male,Heavy Smoker,Occasionally,0,34527,Master's
+52,Male,Light Smoker,Occasionally,0,131425,High School
+30,Female,Non-Smoker,None,0,133876,Bachelor's
+36,Female,Non-Smoker,None,0,61616,PhD
+51,Female,Light Smoker,None,0,68368,High School
+57,Female,Light Smoker,None,0,88575,Master's
+56,Female,Non-Smoker,Regularly,1,90033,Bachelor's
+48,Female,Heavy Smoker,None,1,104756,Bachelor's
+46,Male,Light Smoker,Regularly,0,140306,Master's
+35,Female,Heavy Smoker,None,0,74691,Bachelor's
+42,Male,Light Smoker,,0,61051,Bachelor's
+45,Male,Light Smoker,Occasionally,0,,Bachelor's
+,Male,Non-Smoker,Occasionally,0,58072,Bachelor's
+53,Male,Heavy Smoker,Occasionally,0,79006,High School
+32,Female,Light Smoker,Occasionally,0,133836,Bachelor's
+53,Female,Non-Smoker,,0,69471,PhD
+46,Female,Non-Smoker,Regularly,0,86713,Bachelor's
+43,Male,Non-Smoker,Regularly,0,84507,Bachelor's
+56,Male,Light Smoker,Regularly,1,115651,Bachelor's
+60,Male,Heavy Smoker,None,0,160807,Master's
+59,Male,Non-Smoker,Occasionally,0,64073,High School
+41,Female,Non-Smoker,Regularly,1,,PhD
+51,Female,Non-Smoker,None,0,111324,Bachelor's
+53,Female,Heavy Smoker,None,1,105456,Bachelor's
+59,Male,Light Smoker,Occasionally,0,135401,High School
+45,Female,Light Smoker,Occasionally,0,97517,High School
+48,Female,Non-Smoker,Regularly,0,,Bachelor's
+,Female,Non-Smoker,None,0,97719,Bachelor's
+38,Female,Non-Smoker,Occasionally,0,118261,Master's
+58,Male,Non-Smoker,None,0,104614,Bachelor's
+68,Male,Light Smoker,None,0,95218,Bachelor's
+49,Male,Light Smoker,None,0,112000,Bachelor's
+65,Female,Heavy Smoker,Regularly,1,115078,Master's
+53,Male,Heavy Smoker,,1,121464,High School
+43,Male,Non-Smoker,Occasionally,0,99461,High School
+53,Male,Light Smoker,None,0,400000,High School
+130,Male,Heavy Smoker,,0,84401,Master's
+54,Female,Light Smoker,None,0,116195,Bachelor's
+65,Female,Non-Smoker,Regularly,1,350000,Bachelor's
+23,Male,Non-Smoker,,0,91060,Master's
+58,Male,Non-Smoker,None,0,68199,Master's
+50,Male,Heavy Smoker,Occasionally,0,80862,Bachelor's
+47,Male,Light Smoker,None,0,123353,Master's
+55,Male,Non-Smoker,Occasionally,0,90732,Bachelor's
+30,Male,Light Smoker,Occasionally,1,81393,High School
+,Male,Light Smoker,None,0,39204,Bachelor's
+53,Female,Non-Smoker,Regularly,0,,High School
+64,Female,Non-Smoker,None,0,99364,Bachelor's
+44,Male,Light Smoker,Occasionally,1,144897,Master's
+41,Male,Non-Smoker,Regularly,1,70766,High School
+,Female,Light Smoker,Occasionally,0,86574,High School
+59,Female,Non-Smoker,None,0,87481,Bachelor's
+53,Female,Light Smoker,Regularly,0,127323,Master's
+44,Female,Non-Smoker,Occasionally,0,82141,Bachelor's
+55,Male,Non-Smoker,None,1,93370,Bachelor's
+50,Male,Light Smoker,None,0,98236,High School
+59,Female,Non-Smoker,Occasionally,0,85598,High School
+42,Male,Non-Smoker,Occasionally,0,300000,PhD
+46,Female,Non-Smoker,,0,85822,PhD
+46,Female,Light Smoker,Regularly,0,112208,High School
+35,Female,Light Smoker,Occasionally,0,49204,PhD
+52,Male,Light Smoker,None,0,88989,Bachelor's
+52,Female,Non-Smoker,,0,58996,Master's
+55,Male,Non-Smoker,None,0,115851,Bachelor's
+47,Female,Non-Smoker,Occasionally,0,,Bachelor's
+35,Female,Non-Smoker,None,0,63232,Bachelor's
+45,Male,Non-Smoker,Occasionally,0,,Bachelor's
+46,Female,Non-Smoker,Occasionally,0,126965,High School
+41,Female,Non-Smoker,,0,78027,High School
+48,Male,Heavy Smoker,None,0,63344,Bachelor's
+54,Male,Non-Smoker,Regularly,0,,Master's
+68,Male,Non-Smoker,None,0,36559,Bachelor's
+51,Male,Light Smoker,Regularly,1,,Bachelor's
+52,Male,Non-Smoker,None,0,93200,PhD
+49,Female,Light Smoker,None,0,64938,High School
+110,Male,Light Smoker,Occasionally,0,49363,Bachelor's
+49,Male,Heavy Smoker,None,0,101250,Bachelor's
+50,Female,Non-Smoker,None,0,87314,Master's
+74,Male,Heavy Smoker,Occasionally,0,63077,High School
+,Female,Non-Smoker,Occasionally,0,200000,Bachelor's
+53,Male,Non-Smoker,Occasionally,0,106173,Master's
+49,Male,Non-Smoker,Occasionally,0,99506,Master's
+38,Female,Heavy Smoker,,0,77024,Bachelor's
+61,Female,Non-Smoker,,0,135399,Bachelor's
+57,Female,Non-Smoker,None,0,52897,Bachelor's
+57,Female,Light Smoker,,0,34234,Master's
+40,Female,Non-Smoker,Regularly,0,59242,Bachelor's
+105,Male,Non-Smoker,Occasionally,0,,High School
+40,Male,Non-Smoker,Occasionally,0,87300,Master's
+55,Female,Non-Smoker,Occasionally,0,72762,Bachelor's
+71,Female,Non-Smoker,Regularly,1,90561,Bachelor's
+40,Female,Non-Smoker,None,0,42453,Bachelor's
+,Male,Light Smoker,Occasionally,0,123312,Bachelor's
+55,Male,Non-Smoker,,0,,Bachelor's
+44,Female,Non-Smoker,Occasionally,0,113518,Bachelor's
+34,Male,Light Smoker,None,0,90281,High School
+50,Female,Non-Smoker,Regularly,0,98702,Bachelor's
+,Female,Light Smoker,Regularly,1,97093,PhD
+54,Male,Non-Smoker,Occasionally,0,93431,High School
+40,Female,Non-Smoker,Occasionally,1,99281,PhD
+65,Female,Non-Smoker,Regularly,0,119874,Bachelor's
+47,Male,Non-Smoker,Occasionally,0,85895,Master's
+46,Female,Non-Smoker,None,0,101270,Master's
+58,Female,Non-Smoker,Occasionally,1,,Bachelor's
+,Female,Non-Smoker,Occasionally,0,123203,Master's
+52,Male,Non-Smoker,Occasionally,1,59708,Master's
+,Female,Non-Smoker,Occasionally,0,134028,Bachelor's
+33,Male,Non-Smoker,Regularly,0,78795,Bachelor's
+51,Male,Non-Smoker,,1,37076,Bachelor's
+52,Female,Non-Smoker,Occasionally,0,83843,Master's
+62,Male,Light Smoker,None,0,59568,Master's
+37,Male,Non-Smoker,Regularly,0,,Master's
+36,Female,Light Smoker,Regularly,1,60421,Bachelor's
+55,Female,Light Smoker,None,1,66614,Master's
+52,Female,Non-Smoker,Regularly,0,255000,High School
+52,Female,Light Smoker,Regularly,0,66430,Bachelor's
+53,Male,Heavy Smoker,Occasionally,1,,High School
+,Male,Non-Smoker,,0,32482,Bachelor's
+52,Male,Non-Smoker,None,0,102812,Bachelor's
+57,Female,Light Smoker,None,1,103574,Bachelor's
+42,Female,Light Smoker,None,0,92763,Bachelor's
+68,Female,Non-Smoker,Regularly,0,55990,Bachelor's
+54,Female,Non-Smoker,None,0,78568,Bachelor's
+38,Male,Non-Smoker,None,1,,Bachelor's
+,Male,Non-Smoker,None,1,50249,Bachelor's
+,Male,Light Smoker,Occasionally,1,,Bachelor's
+57,Female,Non-Smoker,Regularly,0,106320,High School
+,Male,Non-Smoker,None,1,73371,Bachelor's
+,Female,Light Smoker,None,1,80806,Bachelor's
+59,Male,Non-Smoker,Occasionally,0,86251,Bachelor's
+54,Male,Non-Smoker,Occasionally,1,23747,Bachelor's
+58,Male,Light Smoker,None,0,72584,Bachelor's
+73,Female,Light Smoker,Occasionally,0,59540,Master's
+,Female,Non-Smoker,None,0,49951,Bachelor's
+47,Male,Non-Smoker,,0,71566,Bachelor's
+41,Male,Non-Smoker,Occasionally,0,138930,High School
+41,Female,Non-Smoker,Occasionally,0,99225,Bachelor's
+49,Male,Non-Smoker,Regularly,0,62864,Bachelor's
+53,Female,Non-Smoker,None,0,97177,Bachelor's
+52,Female,Non-Smoker,Occasionally,0,121980,Bachelor's
+58,Male,Non-Smoker,Occasionally,0,107739,Bachelor's
+50,Male,Non-Smoker,None,0,81788,Bachelor's
+64,Female,Non-Smoker,Occasionally,0,60591,Master's
+47,Male,Non-Smoker,None,0,100946,Master's
+77,Male,Non-Smoker,Regularly,0,91804,Master's
+56,Female,Non-Smoker,None,1,106855,PhD
+41,Female,Light Smoker,Occasionally,0,99055,High School
+39,Female,Non-Smoker,None,0,111486,High School
+100,Female,Light Smoker,Regularly,0,63942,High School
+,Male,Light Smoker,Occasionally,1,,Bachelor's
+,Male,Non-Smoker,Occasionally,0,85927,Master's
+54,Female,Non-Smoker,None,1,142257,Bachelor's
+49,Female,Non-Smoker,Occasionally,0,59324,Master's
+41,Male,Non-Smoker,None,1,132078,High School
+34,Female,Light Smoker,Regularly,0,90937,Master's
+45,Male,Non-Smoker,None,1,60457,Bachelor's
+58,Male,Non-Smoker,None,0,65483,High School
+,Male,Non-Smoker,,0,,Bachelor's
+37,Male,Non-Smoker,Occasionally,0,92724,Bachelor's
+51,Male,Light Smoker,,0,95685,Bachelor's
+53,Male,Non-Smoker,None,0,62788,Bachelor's
+41,Male,Non-Smoker,Occasionally,1,84269,Master's
+51,Female,Heavy Smoker,Occasionally,1,,Bachelor's
+50,Female,Light Smoker,Occasionally,0,136826,Bachelor's
+38,Female,Non-Smoker,Occasionally,0,93089,Bachelor's

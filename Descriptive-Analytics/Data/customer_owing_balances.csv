@@ -1,0 +1,51 @@
+CustomerID,CustomerName,Balance_Start,OwingBalance,Priority_Status
+1,Edgar,12/4/2023,379.93,Not Priority
+2,Isabella,8/6/2023,358.98,Not Priority
+3,Miranda,N/A,343.96,Priority
+4,Stuart,2/20/2024,264.52,Not Priority
+5,Mary,4/12/2021,43.45,Priority
+6,Agata,12/26/2023,459.42,Not Priority
+7,Myra,9/12/2021,124.83,Priority
+8,Charlotte,2/28/2024,922.3,Not Priority
+9,Luke,2/3/2023,N/A,Not Priority
+10,Bruce,12/12/2021,N/A,Priority
+11,Tony,10/31/2019,628.64,Priority
+12,Blake,6/16/2020,885.45,Priority
+13,Alan,1/27/2023,361.64,N/A
+14,Daisy,N/A,192.29,Not Priority
+15,Blake,7/4/2024,69.56,Not Priority
+16,Audrey,3/29/2024,N/A,Not Priority
+17,Ned,4/10/2022,N/A,Not Priority
+18,Stella,N/A,985.22,Priority
+19,Blake,1/28/2024,855.32,Priority
+20,Jacob,7/26/2024,866.48,Priority
+21,Leonardo,8/17/2024,380.13,Not Priority
+22,Emily,N/A,453.41,Priority
+23,James,2/7/2021,834.11,Priority
+24,Rubie,N/A,162.65,Priority
+25,Arthur,8/4/2023,355.27,N/A
+26,Max,12/14/2020,670.18,Priority
+27,Lenny,8/29/2021,701.82,Priority
+28,Rebecca,12/4/2020,683.55,Priority
+29,Thomas,2/21/2022,71.4,Not Priority
+30,John,4/17/2020,N/A,Priority
+31,Aida,12/2/2023,534.14,Priority
+32,Vincent,2/12/2020,244.81,N/A
+33,Rosie,10/13/2022,462.26,Not Priority
+34,Catherine,7/13/2024,269.95,Not Priority
+35,Maria,4/3/2024,N/A,Not Priority
+36,Ada,7/7/2020,N/A,Priority
+37,Abigail,5/12/2021,219.62,Priority
+38,Sawyer,9/13/2023,324.28,Not Priority
+39,April,8/25/2022,768.31,Priority
+40,Bruce,2/13/2021,55.94,N/A
+41,Clark,4/26/2022,821.8,N/A
+42,Kate,11/3/2023,N/A,Not Priority
+43,Chelsea,3/30/2024,401.16,Not Priority
+44,Blake,12/16/2019,66.19,Priority
+45,Aldus,11/10/2022,913.14,N/A
+46,Miranda,1/31/2024,567.18,Priority
+47,Stuart,10/18/2021,717.91,Priority
+48,Frederick,10/12/2023,N/A,Not Priority
+49,Mary,4/10/2024,499.23,Not Priority
+50,Agata,10/11/2021,884.68,Priority

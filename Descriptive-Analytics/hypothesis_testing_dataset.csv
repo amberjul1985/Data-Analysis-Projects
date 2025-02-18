@@ -1,0 +1,2001 @@
+ID,Gender,Age,Income,Education_Level,Marital_Status,Spending_Score,Customer_Type,Purchase_Frequency,Product_Category,Satisfaction_Score
+1,Male,64,67642.62658,Bachelor,Divorced,40,New,0,Home,7
+2,Female,29,23990.24706,High School,Single,6,Loyal,3,Home,8
+3,Male,33,53100.86071,High School,Married,38,New,2,Clothing,8
+4,Male,41,61384.079,PhD,Single,41,New,5,Home,1
+5,Male,36,55723.07844,Master,Divorced,27,Loyal,1,Clothing,1
+6,Female,25,59548.94489,High School,Married,75,Loyal,2,Electronics,3
+7,Male,48,50875.26506,Bachelor,Single,69,Loyal,2,Electronics,1
+8,Male,38,38828.2369,High School,Married,57,Loyal,1,Health,1
+9,Male,34,24543.53923,High School,Married,17,Returning,0,Clothing,8
+10,Female,40,40316.45857,PhD,Married,71,Returning,3,Electronics,1
+11,Male,54,90171.6481,PhD,Married,91,Returning,3,Clothing,9
+12,Male,33,42715.23236,Bachelor,Married,47,New,3,Electronics,2
+13,Male,23,20609.14661,PhD,Married,79,Loyal,2,Clothing,9
+14,Male,25,60989.74041,High School,Married,13,Loyal,3,Clothing,7
+15,Female,42,62831.90013,High School,Divorced,11,Returning,3,Home,9
+16,Male,35,69309.86585,PhD,Divorced,90,New,0,Electronics,3
+17,Female,42,57064.67756,High School,Married,86,New,1,Health,1
+18,Female,29,62684.02272,High School,Married,92,New,4,Home,1
+19,Female,32,77603.25702,Bachelor,Divorced,24,Returning,1,Health,6
+20,Male,43,38817.89762,PhD,Divorced,93,New,2,Clothing,7
+21,Female,58,35842.23942,High School,Divorced,73,New,3,Home,9
+22,Male,62,33581.20191,PhD,Married,4,New,1,Clothing,6
+23,Female,43,46013.4562,Bachelor,Single,46,Loyal,1,Electronics,5
+24,Female,64,71501.3363,PhD,Single,18,Returning,4,Electronics,2
+25,Female,49,57921.02552,High School,Single,43,Loyal,5,Health,2
+26,Female,27,57330.37929,PhD,Single,80,Loyal,1,Electronics,8
+27,Female,33,22710.38107,High School,Married,33,Returning,1,Health,1
+28,Female,24,39602.19759,High School,Single,93,Loyal,5,Clothing,8
+29,Female,34,22465.13551,High School,Divorced,10,New,0,Home,7
+30,Female,40,67568.68684,Bachelor,Divorced,73,New,2,Electronics,7
+31,Male,43,73784.69739,PhD,Single,59,New,1,Clothing,5
+32,Male,38,61693.50091,Bachelor,Divorced,31,New,2,Home,3
+33,Female,39,35198.20931,PhD,Married,28,Returning,2,Clothing,7
+34,Female,24,72230.3374,Bachelor,Single,60,Loyal,1,Health,7
+35,Female,31,46201.17635,Master,Single,3,Loyal,3,Clothing,7
+36,Male,32,31783.11079,High School,Married,55,New,3,Health,2
+37,Female,24,35533.93618,High School,Divorced,14,New,3,Health,3
+38,Male,26,43547.65047,Bachelor,Married,58,Loyal,1,Electronics,3
+39,Male,25,50743.67781,Master,Married,89,Returning,0,Health,4
+40,Male,40,47579.83683,High School,Divorced,15,Loyal,2,Health,9
+41,Male,46,28809.97373,PhD,Married,2,New,1,Clothing,1
+42,Male,35,68199.74614,Bachelor,Divorced,24,New,4,Health,7
+43,Female,48,47740.91121,High School,Divorced,78,Returning,4,Health,7
+44,Female,47,39293.69216,High School,Married,64,Loyal,1,Clothing,4
+45,Female,56,66654.53543,Bachelor,Divorced,71,Returning,0,Home,1
+46,Female,52,32248.90718,Bachelor,Married,24,Returning,2,Electronics,3
+47,Female,35,25566.64725,PhD,Divorced,27,New,2,Clothing,5
+48,Male,59,69087.3117,PhD,Single,37,Loyal,4,Health,2
+49,Female,56,78370.81774,High School,Divorced,94,New,1,Clothing,7
+50,Female,34,43068.55972,High School,Divorced,91,Loyal,1,Home,7
+51,Male,31,49310.44988,Bachelor,Married,39,New,2,Clothing,5
+52,Female,48,32800.02928,High School,Divorced,63,New,6,Clothing,6
+53,Male,41,50082.38825,High School,Single,79,Loyal,1,Clothing,1
+54,Female,52,42864.42104,Bachelor,Single,26,Loyal,0,Clothing,4
+55,Male,61,48468.0734,High School,Divorced,65,New,1,Health,4
+56,Female,62,56138.87581,High School,Divorced,4,Loyal,1,Clothing,8
+57,Female,51,33527.81783,Master,Single,29,New,0,Home,2
+58,Male,20,44572.82991,PhD,Married,1,Loyal,1,Clothing,1
+59,Male,54,22943.27867,Bachelor,Single,50,New,1,Clothing,7
+60,Male,60,44675.19074,Master,Single,86,New,4,Health,6
+61,Male,57,48598.48894,PhD,Divorced,11,New,6,Health,5
+62,Male,43,53434.73638,PhD,Divorced,74,Returning,1,Clothing,8
+63,Male,40,53593.64811,PhD,Single,59,Loyal,1,Health,2
+64,Male,61,63558.84126,Master,Married,62,New,1,Health,2
+65,Male,56,26905.00221,Master,Single,81,Returning,2,Clothing,9
+66,Female,32,27705.84455,PhD,Single,36,New,0,Health,1
+67,Female,21,57934.36905,High School,Married,56,Returning,5,Electronics,6
+68,Male,46,19415.58084,High School,Single,90,New,2,Electronics,3
+69,Female,39,52749.50318,Master,Single,21,New,2,Electronics,5
+70,Female,42,32295.60591,Master,Divorced,13,Returning,1,Health,8
+71,Female,30,73592.21961,Master,Married,9,Returning,1,Electronics,7
+72,Female,35,53756.78612,PhD,Divorced,11,Loyal,1,Home,4
+73,Male,50,46712.6597,High School,Divorced,75,Loyal,6,Electronics,8
+74,Female,33,68415.81316,Master,Married,70,Returning,2,Home,2
+75,Male,62,34048.9699,Master,Married,1,Loyal,1,Health,7
+76,Female,59,36898.85549,Bachelor,Single,70,Returning,0,Electronics,5
+77,Female,61,31078.1775,PhD,Divorced,77,Loyal,4,Home,6
+78,Female,19,37024.4116,Bachelor,Married,86,New,0,Health,3
+79,Male,52,50916.73414,High School,Divorced,56,Loyal,4,Electronics,7
+80,Female,59,57409.27808,Bachelor,Divorced,31,New,1,Clothing,7
+81,Male,51,64421.32528,Bachelor,Married,86,New,3,Electronics,2
+82,Female,47,22629.1393,Bachelor,Single,37,Loyal,2,Electronics,1
+83,Male,30,47422.0552,PhD,Divorced,47,Returning,2,Electronics,2
+84,Female,30,33377.53203,High School,Married,91,New,3,Clothing,8
+85,Male,35,46920.69363,Bachelor,Single,78,New,1,Home,3
+86,Male,49,85012.4537,PhD,Divorced,47,Loyal,1,Home,4
+87,Female,49,54377.92643,High School,Married,69,Returning,1,Clothing,8
+88,Male,52,63491.97457,Master,Divorced,58,Returning,2,Electronics,3
+89,Female,56,79410.36908,Bachelor,Married,36,Loyal,1,Electronics,6
+90,Female,63,66910.37365,High School,Married,32,Returning,1,Electronics,2
+91,Female,46,43281.2828,Bachelor,Divorced,98,Loyal,1,Home,3
+92,Female,46,30862.5187,Master,Divorced,64,Loyal,3,Home,1
+93,Female,61,49547.83596,High School,Married,71,Loyal,6,Clothing,9
+94,Female,33,41484.41324,PhD,Single,42,New,2,Health,4
+95,Female,61,27132.1807,High School,Divorced,48,New,0,Clothing,6
+96,Female,64,53613.87496,PhD,Married,74,New,0,Home,7
+97,Female,27,53988.29447,High School,Married,81,Loyal,3,Electronics,2
+98,Female,47,76536.7505,PhD,Single,30,New,3,Electronics,8
+99,Female,42,44573.55397,Master,Single,21,New,4,Electronics,9
+100,Male,56,54201.82083,Master,Single,60,New,2,Electronics,2
+101,Male,37,40017.71878,Master,Divorced,13,Loyal,0,Health,5
+102,Female,22,63097.54146,High School,Married,1,Loyal,2,Clothing,2
+103,Female,18,48130.73306,Master,Married,65,Loyal,3,Clothing,5
+104,Female,47,32411.12587,Bachelor,Married,33,New,2,Home,7
+105,Female,20,49797.92268,Master,Single,38,Returning,1,Clothing,6
+106,Female,62,55857.84346,PhD,Married,25,New,2,Health,4
+107,Female,31,53829.10081,PhD,Divorced,26,New,2,Health,2
+108,Female,47,65688.45073,PhD,Single,77,Loyal,1,Health,7
+109,Female,21,28279.15442,High School,Single,59,Loyal,1,Electronics,9
+110,Male,35,37358.86115,Bachelor,Single,92,New,4,Home,1
+111,Female,54,59596.80998,Master,Single,33,New,2,Health,3
+112,Male,42,39120.96533,Bachelor,Divorced,41,Returning,4,Clothing,7
+113,Female,18,53607.06874,Bachelor,Married,30,Returning,1,Clothing,9
+114,Female,63,13703.82129,PhD,Divorced,57,Loyal,1,Clothing,5
+115,Male,32,90739.19858,PhD,Married,49,Returning,3,Health,7
+116,Female,26,45954.22203,PhD,Divorced,48,Returning,2,Health,7
+117,Male,32,67909.3439,High School,Single,72,Loyal,1,Clothing,4
+118,Female,41,44946.53262,Bachelor,Single,49,Returning,1,Health,5
+119,Female,21,56220.47793,Bachelor,Divorced,47,New,1,Clothing,2
+120,Male,29,72378.7947,High School,Divorced,56,Returning,1,Electronics,8
+121,Female,54,67487.09029,High School,Married,65,Loyal,0,Health,1
+122,Male,54,46933.1753,High School,Divorced,12,New,3,Electronics,2
+123,Female,60,47971.18512,Bachelor,Divorced,69,Returning,4,Electronics,3
+124,Male,23,65053.4984,Bachelor,Married,88,New,1,Health,7
+125,Male,56,84998.66606,PhD,Married,6,New,3,Clothing,6
+126,Female,63,52884.24012,PhD,Married,89,Returning,0,Home,7
+127,Female,41,79355.95461,Bachelor,Divorced,65,Returning,3,Electronics,5
+128,Male,28,46378.78384,PhD,Married,25,Loyal,1,Health,4
+129,Female,30,64279.40545,High School,Single,1,Loyal,2,Electronics,7
+130,Female,51,66517.33643,Master,Single,32,New,3,Clothing,3
+131,Female,42,43850.59244,PhD,Single,3,Loyal,2,Health,7
+132,Male,24,38793.82881,Bachelor,Divorced,49,New,1,Home,2
+133,Male,21,67180.83783,PhD,Single,19,New,1,Health,8
+134,Male,25,42026.64594,PhD,Divorced,60,Loyal,2,Electronics,6
+135,Male,37,36584.75131,PhD,Divorced,29,Loyal,1,Health,3
+136,Male,46,39740.60747,Master,Single,50,Loyal,2,Health,3
+137,Male,62,41965.79992,High School,Married,2,Returning,2,Electronics,5
+138,Male,63,62849.25657,Bachelor,Divorced,73,New,3,Home,3
+139,Male,27,57725.6401,Master,Single,56,New,5,Clothing,6
+140,Male,60,60734.87367,Bachelor,Divorced,17,New,2,Health,2
+141,Female,51,56320.69717,Bachelor,Married,60,Loyal,2,Home,8
+142,Male,43,41092.39757,Bachelor,Married,36,Loyal,1,Clothing,9
+143,Female,58,60456.54284,Master,Single,61,Loyal,4,Electronics,7
+144,Female,20,67736.8074,High School,Divorced,17,Loyal,2,Home,3
+145,Female,23,58767.54824,Bachelor,Divorced,49,Loyal,2,Home,4
+146,Male,22,56744.8386,High School,Divorced,76,Returning,0,Health,2
+147,Male,22,38494.1824,High School,Divorced,60,Loyal,1,Electronics,9
+148,Male,64,53177.25618,PhD,Single,20,New,1,Health,5
+149,Male,40,37696.38006,Master,Married,50,Loyal,1,Electronics,2
+150,Female,26,49639.58213,Master,Single,3,New,2,Clothing,6
+151,Male,52,25396.00041,PhD,Divorced,43,Loyal,3,Health,7
+152,Male,37,25511.62396,PhD,Divorced,57,Loyal,3,Electronics,2
+153,Male,59,47134.28465,High School,Married,50,New,4,Electronics,1
+154,Male,52,41773.40492,Bachelor,Divorced,68,New,3,Home,7
+155,Male,35,51601.8079,Master,Single,81,New,1,Health,1
+156,Female,34,47978.47131,Bachelor,Single,50,New,3,Health,3
+157,Male,41,50452.86181,Bachelor,Married,37,Returning,1,Clothing,4
+158,Female,20,59129.11164,PhD,Single,46,New,2,Electronics,2
+159,Male,49,43050.96567,Bachelor,Single,42,Loyal,0,Home,7
+160,Female,52,46708.34283,High School,Single,15,Loyal,1,Electronics,5
+161,Male,55,71825.31834,PhD,Single,33,Returning,1,Electronics,1
+162,Male,30,50046.2619,Bachelor,Divorced,80,New,4,Electronics,8
+163,Female,64,47311.84288,PhD,Single,11,Loyal,1,Health,7
+164,Female,42,51237.69049,High School,Married,20,Returning,2,Electronics,4
+165,Female,26,47579.5344,High School,Married,24,Loyal,2,Clothing,2
+166,Male,21,39356.41561,Bachelor,Single,64,Returning,1,Home,7
+167,Female,31,35029.55244,PhD,Married,80,Returning,3,Home,2
+168,Male,54,38548.5299,Bachelor,Single,94,New,4,Electronics,6
+169,Male,51,63093.7878,Bachelor,Married,98,Returning,0,Home,1
+170,Female,28,40551.42118,PhD,Married,65,Loyal,2,Electronics,7
+171,Female,58,47676.13097,Bachelor,Single,88,Loyal,2,Health,7
+172,Male,20,60511.04428,High School,Single,88,New,5,Home,4
+173,Male,45,45824.13244,PhD,Divorced,73,New,2,Health,4
+174,Female,46,59500.41972,PhD,Single,86,Returning,2,Health,5
+175,Female,26,26888.10436,PhD,Single,76,New,4,Clothing,2
+176,Female,20,48012.24981,PhD,Divorced,17,Loyal,1,Clothing,9
+177,Male,42,51183.44145,Bachelor,Single,89,Loyal,4,Home,4
+178,Male,51,50347.08085,Bachelor,Single,92,New,3,Electronics,9
+179,Male,29,25206.21953,High School,Divorced,61,New,6,Electronics,3
+180,Male,59,68046.6897,Master,Single,15,New,0,Electronics,9
+181,Male,26,37179.90583,Master,Single,94,Returning,3,Electronics,1
+182,Male,32,55025.55688,High School,Divorced,51,Returning,1,Clothing,7
+183,Female,57,50119.46424,Master,Divorced,27,Loyal,1,Electronics,4
+184,Male,42,65055.64286,High School,Married,86,Returning,2,Electronics,7
+185,Male,22,82812.33244,Bachelor,Single,74,Returning,2,Health,6
+186,Male,28,30644.53273,PhD,Married,61,Returning,1,Electronics,4
+187,Female,51,40266.29178,PhD,Married,58,Returning,2,Electronics,4
+188,Male,41,52836.38741,Bachelor,Divorced,31,Loyal,3,Clothing,8
+189,Male,32,33419.70024,PhD,Single,91,New,2,Home,7
+190,Female,55,61732.73912,PhD,Single,12,Loyal,2,Health,4
+191,Male,25,62650.58933,Master,Divorced,46,Returning,4,Health,6
+192,Male,22,58391.73614,Bachelor,Married,31,New,1,Home,6
+193,Male,43,53548.72626,Master,Divorced,32,New,0,Health,1
+194,Male,35,70545.63167,Master,Single,32,New,3,Electronics,2
+195,Male,23,32665.61777,PhD,Divorced,99,Loyal,2,Electronics,4
+196,Female,54,50979.02293,PhD,Single,53,New,5,Home,6
+197,Female,30,38917.95697,Bachelor,Married,61,Loyal,3,Clothing,6
+198,Female,45,63348.74499,PhD,Single,46,Loyal,7,Clothing,1
+199,Male,22,22499.88253,PhD,Married,85,Returning,1,Health,8
+200,Male,30,49578.74202,Bachelor,Married,74,Returning,4,Clothing,2
+201,Male,34,55028.58031,PhD,Single,80,New,1,Clothing,5
+202,Female,57,35787.61798,Master,Single,7,New,2,Clothing,4
+203,Male,62,40607.14952,Bachelor,Married,4,Returning,4,Clothing,5
+204,Male,49,50230.68472,PhD,Divorced,91,Loyal,2,Clothing,5
+205,Female,46,64326.44569,High School,Single,52,Loyal,0,Clothing,8
+206,Male,20,34506.96157,Bachelor,Married,89,Returning,2,Clothing,7
+207,Female,57,37123.25089,Bachelor,Married,31,Loyal,2,Health,9
+208,Female,51,66883.81657,High School,Divorced,75,Returning,0,Electronics,1
+209,Female,57,45905.369,PhD,Single,84,Returning,1,Clothing,6
+210,Male,44,38336.9144,PhD,Married,36,New,3,Electronics,6
+211,Male,30,60930.27196,Bachelor,Divorced,54,New,0,Home,2
+212,Male,62,42677.04504,Bachelor,Married,54,Returning,1,Electronics,8
+213,Male,50,65411.32303,PhD,Single,17,New,1,Home,6
+214,Male,23,40044.19435,PhD,Divorced,75,Returning,2,Health,9
+215,Male,41,47606.08157,Master,Married,30,Loyal,0,Electronics,5
+216,Male,36,64174.57498,Bachelor,Divorced,99,Loyal,0,Home,7
+217,Female,33,46606.08693,Bachelor,Single,22,Loyal,0,Electronics,6
+218,Male,57,61340.79983,High School,Divorced,43,Loyal,3,Health,5
+219,Female,45,49016.7859,Master,Single,27,Returning,3,Electronics,6
+220,Male,50,79725.3771,PhD,Married,37,Loyal,0,Home,4
+221,Male,58,73531.67906,Master,Single,46,Loyal,2,Clothing,3
+222,Male,30,30078.55606,PhD,Married,35,Loyal,3,Clothing,1
+223,Female,60,57833.65522,PhD,Married,4,Loyal,5,Clothing,1
+224,Female,62,37753.94021,Master,Single,80,Returning,3,Health,6
+225,Female,42,52872.60408,Bachelor,Married,80,Loyal,1,Clothing,9
+226,Female,59,51025.55944,PhD,Divorced,85,New,3,Health,8
+227,Male,53,34169.19474,Master,Married,26,New,2,Clothing,2
+228,Female,44,65877.26815,High School,Single,19,New,0,Health,9
+229,Male,55,53049.54415,Master,Divorced,81,New,2,Health,8
+230,Male,24,45729.75446,High School,Divorced,45,New,4,Electronics,9
+231,Female,22,43428.35264,PhD,Married,26,New,3,Clothing,4
+232,Female,60,52096.65455,Master,Married,22,Returning,2,Electronics,9
+233,Female,62,56118.87526,Master,Single,58,New,3,Home,2
+234,Female,48,48125.3632,High School,Divorced,63,Loyal,3,Clothing,1
+235,Female,40,7512.206438,Master,Single,28,New,1,Clothing,9
+236,Female,59,50253.36074,Master,Married,65,Returning,1,Clothing,8
+237,Female,27,28377.76908,PhD,Divorced,44,New,5,Clothing,7
+238,Female,49,46858.21152,Master,Single,43,Loyal,2,Electronics,8
+239,Male,60,28931.53614,Bachelor,Single,37,Loyal,4,Electronics,1
+240,Female,47,28752.53547,High School,Single,66,Returning,4,Health,9
+241,Female,56,68526.82733,Master,Single,17,Returning,2,Electronics,9
+242,Male,48,45198.62029,High School,Single,40,Returning,2,Health,9
+243,Female,35,44050.0676,High School,Divorced,38,Returning,3,Home,6
+244,Male,53,57237.86073,High School,Single,85,New,4,Electronics,4
+245,Male,19,44441.14215,Master,Divorced,61,New,1,Health,2
+246,Female,31,81557.09138,Master,Single,9,Loyal,2,Clothing,4
+247,Male,30,45904.70359,High School,Married,77,Returning,1,Home,7
+248,Male,46,55476.88118,Bachelor,Married,75,Returning,6,Health,1
+249,Male,29,64564.11997,High School,Single,61,New,2,Home,9
+250,Male,56,74033.79838,Bachelor,Married,80,Returning,2,Clothing,3
+251,Female,19,38869.90797,High School,Divorced,16,Loyal,1,Clothing,4
+252,Male,49,43730.54744,PhD,Single,2,Loyal,4,Health,5
+253,Female,30,69118.87813,High School,Divorced,72,Returning,2,Health,3
+254,Male,63,62150.93456,High School,Single,43,Loyal,3,Clothing,4
+255,Male,44,66127.63904,Master,Married,42,Loyal,1,Health,5
+256,Male,58,29469.43185,Bachelor,Divorced,77,New,4,Clothing,1
+257,Male,34,73219.99631,PhD,Married,57,Loyal,4,Electronics,9
+258,Female,57,38578.88685,Bachelor,Married,81,Returning,0,Health,4
+259,Female,48,52884.39467,PhD,Single,88,Returning,8,Home,9
+260,Male,51,47776.65684,High School,Divorced,67,Loyal,3,Clothing,4
+261,Male,41,36822.75745,Master,Married,30,Returning,2,Electronics,1
+262,Female,62,28811.96355,Master,Single,13,New,3,Health,5
+263,Male,52,23842.27825,Bachelor,Single,19,Loyal,0,Clothing,9
+264,Male,23,51785.27609,Master,Single,7,Loyal,2,Electronics,3
+265,Male,36,27120.21365,Bachelor,Married,9,Loyal,2,Health,5
+266,Female,47,32992.76607,Bachelor,Single,83,Returning,1,Clothing,3
+267,Female,24,46729.46183,PhD,Divorced,54,Returning,3,Clothing,3
+268,Female,27,10417.8725,Bachelor,Divorced,86,Loyal,2,Clothing,1
+269,Male,58,61684.69568,PhD,Married,82,Returning,2,Health,2
+270,Male,49,13851.67749,Master,Divorced,61,Returning,2,Electronics,2
+271,Female,51,48839.41413,Bachelor,Single,87,Loyal,3,Clothing,9
+272,Female,45,50225.2884,Bachelor,Married,2,Loyal,3,Electronics,7
+273,Female,32,58070.9258,High School,Single,50,Returning,3,Electronics,8
+274,Female,47,49374.78796,Bachelor,Married,75,Loyal,1,Home,2
+275,Male,54,80268.61946,Bachelor,Married,31,Loyal,2,Electronics,9
+276,Female,46,53244.75322,High School,Single,33,Loyal,3,Electronics,3
+277,Male,39,65804.18599,High School,Divorced,78,Loyal,0,Electronics,2
+278,Female,21,39148.05787,Master,Divorced,80,Returning,3,Electronics,1
+279,Male,37,51811.35209,Bachelor,Married,11,Loyal,1,Electronics,9
+280,Female,49,73213.55143,Master,Single,33,New,1,Health,8
+281,Female,53,46434.57313,Master,Single,7,Loyal,0,Home,4
+282,Female,21,52883.52146,High School,Married,31,New,2,Clothing,7
+283,Female,44,64712.80174,PhD,Divorced,48,Loyal,3,Home,3
+284,Male,34,38866.5572,Master,Single,47,New,2,Home,3
+285,Female,29,17576.595,PhD,Divorced,78,New,4,Clothing,4
+286,Male,39,53833.60481,Bachelor,Divorced,92,Loyal,1,Electronics,2
+287,Male,34,64830.03754,High School,Married,53,Loyal,2,Clothing,4
+288,Male,27,29728.31353,Bachelor,Married,80,Loyal,1,Electronics,3
+289,Male,18,60053.29846,Bachelor,Divorced,19,New,2,Clothing,8
+290,Female,39,60154.49581,High School,Single,81,Returning,4,Health,2
+291,Male,43,15897.55611,Bachelor,Single,90,Returning,0,Home,9
+292,Male,35,35955.67051,High School,Married,6,Loyal,3,Electronics,3
+293,Male,31,44062.56829,PhD,Divorced,49,Returning,1,Home,4
+294,Female,64,47305.64,Bachelor,Single,73,Returning,2,Electronics,3
+295,Female,46,38852.98603,High School,Single,50,Loyal,1,Clothing,3
+296,Female,29,38044.95795,Master,Married,81,New,2,Clothing,8
+297,Female,53,75072.24337,Bachelor,Divorced,95,Loyal,3,Clothing,8
+298,Male,52,48386.61302,PhD,Single,12,Returning,3,Health,6
+299,Male,29,39574.3451,High School,Married,23,New,1,Clothing,4
+300,Female,24,49382.45785,Bachelor,Single,54,Returning,1,Clothing,1
+301,Male,46,58056.3625,Bachelor,Single,69,New,3,Health,4
+302,Male,28,50774.39565,Bachelor,Single,59,Returning,5,Home,8
+303,Male,50,46914.08614,PhD,Married,36,Loyal,1,Home,6
+304,Female,23,40249.74997,High School,Divorced,3,Returning,3,Electronics,2
+305,Female,64,40068.03732,Master,Married,58,Returning,1,Home,3
+306,Male,32,41032.8742,Master,Divorced,88,New,1,Electronics,7
+307,Female,49,55082.21901,Master,Single,55,Returning,2,Electronics,4
+308,Female,28,35087.29861,High School,Divorced,57,Loyal,0,Home,4
+309,Female,40,55899.03835,Master,Single,17,Loyal,2,Home,5
+310,Female,43,71194.92133,PhD,Single,39,Loyal,2,Health,8
+311,Female,51,54885.61037,High School,Married,90,New,1,Electronics,7
+312,Male,63,44456.21707,Bachelor,Single,68,New,4,Home,9
+313,Female,51,30528.09672,PhD,Married,55,Returning,5,Home,5
+314,Male,46,73671.60212,Bachelor,Divorced,45,Returning,2,Health,1
+315,Male,21,32449.73524,Master,Divorced,76,Returning,1,Home,4
+316,Female,34,62728.43052,PhD,Single,1,New,2,Clothing,6
+317,Male,52,59577.76791,High School,Married,21,New,3,Clothing,6
+318,Male,30,46448.47096,PhD,Single,83,Returning,0,Electronics,9
+319,Male,58,46055.31794,Bachelor,Married,21,New,1,Health,5
+320,Female,56,22464.33089,High School,Married,52,New,5,Home,5
+321,Female,32,54950.97501,PhD,Married,82,Loyal,3,Electronics,6
+322,Male,46,59298.89499,PhD,Divorced,43,Loyal,0,Home,6
+323,Female,46,33663.79826,PhD,Married,52,Returning,4,Clothing,3
+324,Female,28,47662.67789,PhD,Divorced,67,Returning,2,Home,6
+325,Female,49,50567.92873,High School,Married,44,Loyal,2,Home,8
+326,Female,19,58768.58942,Bachelor,Divorced,32,New,1,Home,6
+327,Male,64,50057.04614,PhD,Divorced,10,Returning,4,Clothing,5
+328,Male,31,25605.20969,High School,Divorced,64,Returning,1,Clothing,3
+329,Female,37,42050.93346,Bachelor,Single,79,Returning,1,Health,1
+330,Female,39,53369.38678,PhD,Married,69,New,3,Clothing,5
+331,Male,28,62622.92513,Bachelor,Single,68,Loyal,2,Electronics,6
+332,Male,44,40735.45086,Bachelor,Married,28,Returning,2,Home,6
+333,Female,20,82814.74812,High School,Married,53,Loyal,1,Clothing,6
+334,Male,34,21582.90397,Bachelor,Single,51,Loyal,2,Electronics,3
+335,Female,61,41544.49737,High School,Divorced,53,New,2,Clothing,4
+336,Female,45,48754.49595,PhD,Married,4,New,1,Home,3
+337,Male,46,46988.76255,Bachelor,Divorced,79,New,2,Electronics,2
+338,Male,38,31517.86505,Bachelor,Single,17,New,1,Clothing,8
+339,Female,64,56717.92622,Master,Divorced,67,New,3,Clothing,7
+340,Female,33,55566.41077,PhD,Married,74,New,0,Electronics,8
+341,Male,54,50719.42169,PhD,Married,47,Returning,1,Health,6
+342,Female,37,54977.65795,Master,Married,56,Loyal,2,Electronics,7
+343,Male,23,43643.35383,Master,Single,23,New,3,Electronics,1
+344,Female,36,25739.55575,High School,Married,18,Returning,3,Electronics,5
+345,Male,22,39250.40195,High School,Single,1,Loyal,0,Electronics,4
+346,Male,20,52355.81872,Bachelor,Divorced,35,New,1,Clothing,3
+347,Male,18,52441.16622,Bachelor,Married,64,New,2,Electronics,2
+348,Female,55,50620.68579,Bachelor,Married,58,Returning,0,Electronics,9
+349,Female,32,58230.62402,Bachelor,Married,95,Loyal,2,Home,8
+350,Male,51,41282.80932,High School,Divorced,59,New,3,Clothing,2
+351,Female,52,50400.21586,PhD,Married,1,Loyal,2,Home,6
+352,Male,42,58581.39168,Bachelor,Single,3,Returning,4,Clothing,3
+353,Male,41,48726.65272,PhD,Divorced,67,New,2,Health,3
+354,Female,29,31350.14107,Bachelor,Divorced,37,Loyal,2,Health,5
+355,Female,35,35577.67446,Master,Divorced,83,Returning,0,Clothing,7
+356,Male,32,62462.78486,Bachelor,Divorced,29,Returning,0,Health,7
+357,Female,61,70887.08244,Bachelor,Divorced,89,New,2,Health,1
+358,Female,33,67629.24662,Bachelor,Single,33,Loyal,1,Clothing,7
+359,Male,44,53482.33925,High School,Divorced,61,New,1,Electronics,7
+360,Male,25,31953.01097,Master,Married,93,New,3,Home,6
+361,Female,63,49904.72665,Bachelor,Divorced,90,Loyal,2,Clothing,6
+362,Male,42,73433.82698,Bachelor,Divorced,4,Loyal,4,Clothing,2
+363,Male,34,59277.32571,PhD,Divorced,14,Loyal,3,Clothing,3
+364,Female,46,46887.83716,Master,Divorced,91,Returning,2,Home,3
+365,Male,25,59429.37849,Bachelor,Divorced,33,Returning,1,Clothing,3
+366,Male,32,30959.0719,PhD,Single,22,Loyal,1,Home,2
+367,Female,44,39564.92933,PhD,Single,48,Returning,2,Home,9
+368,Female,63,33737.12913,High School,Divorced,3,New,5,Health,6
+369,Male,24,57043.57728,PhD,Single,87,Loyal,4,Electronics,2
+370,Male,20,60711.5525,Bachelor,Married,85,New,1,Health,3
+371,Female,46,47692.60959,High School,Divorced,23,Loyal,0,Clothing,6
+372,Female,61,36906.05485,High School,Married,68,New,0,Clothing,4
+373,Female,41,49703.7636,Bachelor,Married,21,Loyal,5,Home,7
+374,Female,20,42701.30164,Master,Divorced,43,New,4,Health,6
+375,Male,37,38057.43943,PhD,Married,95,Loyal,2,Home,6
+376,Female,63,55084.90528,High School,Married,85,Loyal,2,Health,3
+377,Female,32,38630.11666,Master,Married,26,Returning,4,Health,8
+378,Male,42,26504.75401,Bachelor,Divorced,41,New,3,Health,9
+379,Female,47,29838.28294,PhD,Divorced,99,Returning,6,Health,6
+380,Male,31,25951.093,PhD,Married,38,New,0,Health,2
+381,Female,24,53712.67875,High School,Divorced,88,Returning,3,Electronics,1
+382,Female,34,52256.08157,PhD,Divorced,11,Loyal,1,Clothing,3
+383,Female,61,51507.80142,PhD,Married,29,Returning,1,Health,3
+384,Male,37,58815.97479,PhD,Divorced,60,Returning,1,Health,8
+385,Male,53,67879.38284,PhD,Single,67,Loyal,5,Home,5
+386,Female,26,41116.00204,Bachelor,Divorced,65,Returning,6,Clothing,1
+387,Male,55,56097.16216,Master,Single,61,Loyal,1,Clothing,4
+388,Male,39,26305.76739,Bachelor,Married,19,New,2,Clothing,7
+389,Male,19,70680.64619,Bachelor,Divorced,46,Returning,0,Health,5
+390,Male,41,31327.53143,High School,Married,49,Loyal,0,Home,6
+391,Male,25,39348.78321,PhD,Married,22,Loyal,4,Clothing,4
+392,Male,28,41034.35729,Bachelor,Married,78,Returning,2,Home,2
+393,Female,30,27105.93505,PhD,Married,57,New,1,Electronics,9
+394,Female,34,50488.63366,Bachelor,Married,14,Returning,2,Electronics,2
+395,Male,25,53208.55802,Bachelor,Divorced,44,Loyal,0,Home,2
+396,Female,38,47158.79494,High School,Single,16,New,0,Health,2
+397,Female,35,26896.28552,Master,Divorced,97,Returning,2,Clothing,1
+398,Female,47,79750.79352,Master,Divorced,77,Loyal,2,Electronics,3
+399,Female,35,58238.46195,Bachelor,Divorced,12,Returning,0,Electronics,6
+400,Male,63,89513.33065,High School,Divorced,55,New,2,Home,7
+401,Female,64,37923.3614,PhD,Single,51,New,1,Health,1
+402,Female,48,64368.23342,PhD,Divorced,39,New,3,Home,5
+403,Male,55,61689.10831,Bachelor,Married,33,New,4,Home,5
+404,Male,49,45641.37345,Master,Divorced,33,New,4,Home,1
+405,Female,28,71165.76352,High School,Divorced,29,Returning,2,Home,4
+406,Female,62,43918.84989,Master,Single,69,New,4,Home,1
+407,Female,42,44586.62871,PhD,Single,70,New,4,Health,1
+408,Female,50,-2071.448379,Master,Married,31,Loyal,2,Home,7
+409,Female,55,56135.42081,PhD,Divorced,80,New,2,Health,7
+410,Female,58,30117.35132,High School,Divorced,31,Loyal,0,Clothing,3
+411,Male,25,41739.18206,High School,Divorced,89,Loyal,4,Clothing,7
+412,Female,28,34606.70542,Bachelor,Married,46,Loyal,3,Clothing,3
+413,Female,39,44506.52691,Bachelor,Single,97,Returning,2,Clothing,2
+414,Male,41,56658.20345,Master,Married,77,Returning,3,Electronics,4
+415,Male,58,50167.12345,High School,Divorced,52,Loyal,3,Health,3
+416,Male,34,60644.61936,High School,Single,10,Returning,2,Clothing,7
+417,Male,29,68984.44303,Bachelor,Single,88,New,6,Electronics,1
+418,Female,63,44468.06095,PhD,Married,74,Returning,1,Health,6
+419,Female,49,42821.49137,Master,Single,41,New,2,Electronics,2
+420,Female,32,64365.9148,Master,Single,95,New,2,Electronics,8
+421,Female,33,65555.70933,Bachelor,Divorced,77,Returning,2,Home,5
+422,Female,39,61108.86302,High School,Divorced,3,Returning,3,Electronics,3
+423,Female,45,35717.3179,Bachelor,Single,59,Loyal,2,Electronics,7
+424,Male,37,56339.82598,Bachelor,Single,52,Returning,3,Health,2
+425,Female,50,51642.05906,Bachelor,Married,34,Returning,1,Electronics,5
+426,Male,27,65787.93412,Bachelor,Married,49,Returning,1,Home,8
+427,Male,57,41406.91866,PhD,Single,28,New,0,Clothing,1
+428,Female,49,25000.84563,PhD,Divorced,83,New,6,Clothing,1
+429,Male,50,60353.55201,High School,Single,87,New,2,Health,3
+430,Female,19,11624.47425,Bachelor,Single,96,Loyal,6,Health,3
+431,Male,50,39027.29894,PhD,Divorced,13,Loyal,2,Electronics,7
+432,Female,50,34652.06733,High School,Divorced,97,Loyal,1,Health,6
+433,Male,58,34550.97994,Bachelor,Married,98,New,1,Electronics,7
+434,Female,30,38764.52794,Master,Married,97,Returning,0,Health,4
+435,Female,47,68260.60355,PhD,Married,69,Loyal,2,Clothing,2
+436,Female,50,62308.33129,High School,Married,67,Loyal,2,Clothing,2
+437,Female,30,46224.03977,Master,Divorced,61,New,5,Clothing,1
+438,Female,43,67004.35208,Bachelor,Single,60,Loyal,1,Clothing,9
+439,Male,39,34065.54267,Bachelor,Married,71,Returning,1,Electronics,7
+440,Male,56,32025.74921,Bachelor,Married,24,New,2,Electronics,3
+441,Male,19,62953.94989,PhD,Divorced,63,New,2,Electronics,2
+442,Female,55,58694.64844,High School,Divorced,86,Returning,2,Clothing,3
+443,Male,56,43096.04898,Master,Single,61,Returning,0,Home,7
+444,Female,43,32968.08659,High School,Single,23,Returning,3,Clothing,5
+445,Female,63,71895.97813,PhD,Divorced,30,Loyal,3,Clothing,3
+446,Male,32,24198.46174,High School,Married,60,Returning,3,Home,9
+447,Male,51,41023.61097,PhD,Married,18,New,1,Home,2
+448,Female,59,53428.64791,Bachelor,Married,96,Returning,3,Health,7
+449,Male,61,77032.47213,Master,Single,56,New,1,Clothing,6
+450,Female,57,55746.50318,Bachelor,Married,53,New,2,Home,6
+451,Female,28,57204.5698,High School,Married,7,Loyal,2,Health,7
+452,Female,20,41459.2445,Bachelor,Divorced,97,Returning,1,Home,6
+453,Female,23,58527.20338,Master,Married,69,Loyal,5,Home,2
+454,Female,26,51579.63981,Bachelor,Divorced,92,Returning,1,Health,5
+455,Male,23,26173.03189,Master,Married,72,Returning,2,Clothing,3
+456,Male,26,61894.0228,Master,Single,79,Returning,1,Health,9
+457,Female,56,64555.90085,Bachelor,Married,52,Returning,4,Clothing,8
+458,Female,48,62050.47573,PhD,Married,4,Returning,2,Home,2
+459,Male,49,50499.91888,High School,Divorced,34,New,1,Health,1
+460,Male,58,35657.34675,PhD,Divorced,69,New,1,Electronics,4
+461,Female,29,15362.24403,PhD,Divorced,33,Returning,1,Home,4
+462,Male,25,52355.80408,Bachelor,Married,69,New,3,Health,2
+463,Female,25,66229.1309,High School,Married,38,Loyal,1,Home,7
+464,Male,45,64932.98704,High School,Single,98,Loyal,1,Health,3
+465,Female,37,62241.09265,PhD,Married,26,Loyal,3,Clothing,7
+466,Male,64,48886.83532,Bachelor,Single,1,Returning,3,Electronics,7
+467,Female,24,66311.96261,High School,Divorced,4,Returning,2,Home,1
+468,Male,28,63862.42736,PhD,Divorced,39,New,0,Electronics,6
+469,Male,37,43660.49659,High School,Divorced,54,New,1,Clothing,4
+470,Female,33,60148.97025,Bachelor,Single,90,New,2,Health,8
+471,Male,21,41960.61282,Bachelor,Married,33,Loyal,1,Electronics,8
+472,Female,23,58100.36347,Bachelor,Divorced,33,Loyal,0,Health,3
+473,Male,39,30513.25034,High School,Married,72,Loyal,0,Clothing,4
+474,Female,43,31666.82287,Master,Married,20,Loyal,0,Home,1
+475,Male,20,65873.1057,High School,Divorced,16,New,2,Clothing,2
+476,Female,58,64063.40183,Master,Single,21,Returning,0,Electronics,7
+477,Male,59,59504.17311,Bachelor,Married,45,Returning,0,Electronics,7
+478,Female,31,51319.53232,PhD,Divorced,90,Loyal,5,Electronics,9
+479,Male,28,14130.88353,Master,Married,87,Returning,3,Health,9
+480,Female,35,48876.86093,Bachelor,Married,82,Returning,1,Home,9
+481,Female,29,56812.74751,Bachelor,Married,62,Returning,0,Electronics,6
+482,Female,40,41979.00129,Master,Married,31,Loyal,2,Electronics,8
+483,Male,29,39312.58711,PhD,Married,42,New,0,Electronics,9
+484,Female,30,71666.30582,Bachelor,Single,12,New,1,Clothing,7
+485,Male,42,49095.66513,Master,Single,65,Returning,1,Electronics,4
+486,Female,62,56821.92754,PhD,Divorced,73,New,2,Clothing,4
+487,Male,36,61611.97192,PhD,Single,3,New,2,Electronics,6
+488,Female,63,34978.44385,Bachelor,Single,90,Loyal,3,Clothing,4
+489,Male,53,52898.11134,High School,Single,9,Loyal,2,Health,7
+490,Male,62,69794.66742,High School,Married,51,Returning,2,Health,8
+491,Female,25,77288.34775,Bachelor,Married,16,Returning,2,Clothing,8
+492,Male,46,50599.04596,PhD,Divorced,88,Returning,0,Home,8
+493,Male,49,46430.84679,Bachelor,Divorced,78,Loyal,2,Home,2
+494,Female,61,54035.36102,Master,Divorced,3,New,0,Clothing,2
+495,Male,35,53654.55571,High School,Married,98,Loyal,0,Health,2
+496,Male,23,70801.37099,Master,Single,97,Loyal,4,Clothing,2
+497,Male,35,35054.12466,Bachelor,Single,24,New,2,Home,4
+498,Female,36,45801.90371,Bachelor,Married,73,New,3,Clothing,5
+499,Male,39,33242.8801,PhD,Divorced,13,Returning,4,Health,4
+500,Female,54,34818.57671,PhD,Divorced,2,New,4,Home,5
+501,Male,49,55648.61023,PhD,Divorced,71,New,1,Home,4
+502,Male,58,62147.86762,Master,Married,21,New,3,Electronics,7
+503,Male,20,40259.12459,PhD,Divorced,19,New,1,Electronics,1
+504,Female,45,61581.42183,Bachelor,Divorced,89,Returning,3,Home,1
+505,Male,27,66673.67986,PhD,Married,47,Returning,1,Home,2
+506,Male,52,79020.58998,High School,Single,22,New,2,Clothing,1
+507,Female,46,51046.20273,PhD,Married,75,New,3,Health,3
+508,Male,32,40403.53209,Master,Married,33,Returning,1,Home,6
+509,Female,50,34962.92103,High School,Married,32,Returning,4,Health,6
+510,Female,24,33473.10203,High School,Married,64,New,2,Home,1
+511,Male,29,68746.71052,High School,Single,85,Loyal,0,Health,6
+512,Female,47,27273.56986,Master,Divorced,39,Returning,1,Electronics,5
+513,Male,38,68266.22728,Bachelor,Married,84,Returning,0,Home,7
+514,Female,48,36973.38456,PhD,Single,72,Returning,1,Clothing,6
+515,Female,41,39721.90703,High School,Divorced,42,New,4,Health,7
+516,Male,37,47726.66817,High School,Divorced,9,New,2,Home,2
+517,Female,54,39445.18176,High School,Divorced,25,Returning,2,Electronics,1
+518,Female,21,63979.69632,Bachelor,Married,89,New,1,Electronics,7
+519,Female,45,77200.15928,Bachelor,Married,97,New,1,Electronics,9
+520,Female,61,40138.51764,Master,Divorced,2,Returning,4,Electronics,2
+521,Female,37,43516.43241,Bachelor,Divorced,19,New,4,Home,7
+522,Male,41,47550.18789,PhD,Divorced,20,Loyal,1,Clothing,3
+523,Female,49,58115.85145,Master,Divorced,93,New,4,Health,6
+524,Male,58,47697.73582,Master,Divorced,70,New,0,Clothing,3
+525,Female,53,70808.86117,PhD,Divorced,17,Returning,2,Health,5
+526,Male,51,67199.35875,PhD,Single,89,Returning,0,Clothing,2
+527,Male,53,32218.0647,PhD,Divorced,68,Loyal,2,Home,8
+528,Female,19,57814.52248,Master,Married,94,New,1,Home,8
+529,Female,32,72805.08856,Master,Married,84,Loyal,3,Health,7
+530,Female,51,42578.28581,Master,Married,3,Loyal,3,Home,6
+531,Male,53,45586.02692,PhD,Divorced,87,Returning,0,Health,1
+532,Female,23,42079.44503,PhD,Married,51,New,2,Clothing,8
+533,Male,56,42393.86577,High School,Single,82,Returning,0,Home,1
+534,Male,59,24973.22672,Bachelor,Divorced,26,Loyal,2,Home,8
+535,Male,29,30075.27573,High School,Married,56,Loyal,1,Health,2
+536,Female,20,51162.10578,PhD,Single,64,Returning,3,Health,8
+537,Female,62,72703.96962,Master,Single,8,Returning,2,Health,4
+538,Male,35,40799.58781,PhD,Married,81,Returning,1,Health,7
+539,Male,57,40358.64046,Bachelor,Single,95,Returning,2,Electronics,5
+540,Female,38,75522.81606,High School,Married,37,Returning,3,Health,8
+541,Male,32,33376.13807,High School,Single,97,Loyal,3,Electronics,6
+542,Female,50,25081.35256,Master,Divorced,27,Returning,0,Clothing,5
+543,Male,52,37572.26846,High School,Divorced,45,New,1,Health,1
+544,Female,43,40058.23282,High School,Divorced,4,Loyal,4,Electronics,3
+545,Male,25,23788.20373,PhD,Divorced,86,Loyal,3,Electronics,9
+546,Female,53,48079.37441,High School,Divorced,90,New,1,Electronics,9
+547,Male,47,64226.69525,High School,Married,96,New,0,Home,5
+548,Female,40,30710.67839,High School,Divorced,88,Loyal,4,Electronics,3
+549,Female,59,51313.67328,Master,Divorced,99,Returning,1,Health,6
+550,Male,61,55939.03513,Master,Divorced,37,Loyal,3,Health,5
+551,Male,31,48749.23587,PhD,Divorced,96,Loyal,1,Health,1
+552,Female,31,52785.38885,High School,Single,71,New,2,Electronics,2
+553,Male,19,52959.90894,Master,Divorced,33,Loyal,4,Electronics,5
+554,Female,54,37809.08065,Master,Divorced,31,Returning,1,Home,9
+555,Male,22,72478.73858,PhD,Married,55,New,4,Clothing,4
+556,Female,55,68716.35251,Bachelor,Single,12,Loyal,2,Home,9
+557,Female,62,67848.67096,High School,Married,11,Loyal,3,Health,3
+558,Female,58,65205.13611,Master,Divorced,88,Returning,4,Health,1
+559,Female,64,26375.30796,PhD,Married,72,Loyal,5,Health,6
+560,Female,31,63890.93567,PhD,Married,32,Loyal,1,Home,7
+561,Female,56,59834.02141,PhD,Divorced,57,Loyal,2,Health,4
+562,Male,42,26952.14578,Master,Single,38,Loyal,3,Health,5
+563,Male,37,46776.34467,High School,Single,60,Returning,0,Health,4
+564,Male,19,54151.90174,Bachelor,Married,86,Loyal,1,Electronics,3
+565,Female,56,74964.75647,High School,Divorced,98,Loyal,2,Clothing,1
+566,Female,23,60870.85787,PhD,Married,19,Loyal,0,Electronics,6
+567,Female,34,37031.51409,PhD,Married,84,New,2,Electronics,5
+568,Female,42,75430.82688,Bachelor,Married,56,Returning,4,Clothing,1
+569,Male,45,50656.69644,High School,Divorced,14,New,3,Clothing,5
+570,Male,19,46162.38295,PhD,Divorced,33,New,2,Home,6
+571,Female,52,45093.22705,PhD,Single,10,Returning,4,Clothing,5
+572,Male,54,25646.67143,High School,Divorced,80,New,3,Home,1
+573,Male,22,48353.45744,PhD,Married,64,New,0,Home,5
+574,Female,18,57462.27886,High School,Married,64,New,2,Electronics,1
+575,Male,57,44219.25009,PhD,Single,62,Returning,5,Health,3
+576,Female,29,56306.78716,High School,Divorced,68,Loyal,1,Electronics,2
+577,Male,53,37034.13394,Bachelor,Married,91,Returning,2,Electronics,1
+578,Female,62,47886.08129,PhD,Single,92,Returning,2,Clothing,4
+579,Female,40,54748.1049,Bachelor,Single,43,Returning,2,Clothing,2
+580,Female,64,52844.91316,PhD,Married,80,New,1,Home,5
+581,Female,48,25918.02365,PhD,Married,59,Loyal,2,Home,1
+582,Male,28,43414.91074,Master,Divorced,52,Returning,0,Home,1
+583,Female,27,75161.94395,High School,Single,97,Returning,0,Clothing,4
+584,Female,20,42613.30889,Bachelor,Married,19,Loyal,0,Home,7
+585,Female,31,50237.11316,Bachelor,Single,21,Loyal,2,Home,2
+586,Male,33,48698.66374,Bachelor,Divorced,22,Loyal,5,Clothing,2
+587,Female,27,73523.59638,High School,Married,9,New,3,Health,1
+588,Male,46,69355.52183,Master,Divorced,9,Loyal,4,Electronics,5
+589,Female,27,62112.965,Bachelor,Single,73,New,1,Clothing,6
+590,Male,29,35401.3653,High School,Divorced,27,Returning,2,Home,6
+591,Male,47,55387.74574,PhD,Divorced,17,New,3,Electronics,2
+592,Female,58,58519.12615,Bachelor,Single,44,Loyal,2,Clothing,7
+593,Male,18,39520.92747,Bachelor,Divorced,45,New,3,Electronics,6
+594,Female,22,36942.24341,Master,Single,8,Loyal,5,Electronics,8
+595,Female,37,75575.21221,Bachelor,Married,80,New,3,Health,6
+596,Female,25,45487.95032,Bachelor,Single,18,Returning,1,Home,9
+597,Male,60,74224.65228,PhD,Single,33,New,2,Clothing,2
+598,Male,29,64956.40633,High School,Married,1,Returning,1,Home,7
+599,Female,18,56118.15174,High School,Single,76,Loyal,2,Health,5
+600,Female,37,56787.97155,Master,Married,6,Returning,1,Health,1
+601,Male,45,28993.7066,PhD,Married,41,Loyal,2,Clothing,3
+602,Female,60,53101.6217,High School,Single,55,Loyal,1,Clothing,4
+603,Female,54,71255.30619,PhD,Divorced,5,Returning,3,Health,2
+604,Female,64,60220.09255,High School,Divorced,59,Returning,3,Clothing,7
+605,Male,54,52315.05031,PhD,Married,80,New,3,Electronics,1
+606,Male,29,75679.05794,Master,Divorced,18,New,0,Electronics,3
+607,Male,54,47224.38916,Bachelor,Divorced,49,Returning,0,Health,9
+608,Female,61,40706.66487,Master,Single,82,Returning,1,Home,2
+609,Female,45,52307.47874,High School,Married,65,Returning,1,Clothing,5
+610,Female,64,61497.01052,Master,Married,83,Returning,4,Clothing,4
+611,Male,32,24233.08856,Bachelor,Single,54,Loyal,1,Electronics,3
+612,Female,23,54273.02965,Master,Divorced,61,Returning,2,Clothing,5
+613,Female,61,62155.17523,High School,Married,8,Returning,1,Home,6
+614,Female,37,45955.37562,High School,Divorced,3,Returning,2,Clothing,1
+615,Female,31,66604.47149,Master,Married,25,Returning,0,Clothing,2
+616,Male,19,59617.79994,Bachelor,Married,69,Loyal,4,Electronics,1
+617,Male,26,82120.74678,Master,Married,55,New,2,Clothing,3
+618,Female,54,38740.95654,Bachelor,Married,40,New,0,Health,8
+619,Male,37,62460.64776,PhD,Divorced,83,New,2,Health,8
+620,Male,43,34740.14138,Bachelor,Divorced,82,New,3,Home,4
+621,Female,46,25769.50323,PhD,Divorced,50,New,2,Home,6
+622,Female,18,19467.03736,Master,Divorced,95,Loyal,2,Home,9
+623,Male,52,58074.86034,Bachelor,Single,33,New,2,Home,7
+624,Female,23,52763.71871,PhD,Married,18,Loyal,0,Electronics,2
+625,Male,54,42814.23414,PhD,Married,57,Loyal,0,Clothing,2
+626,Female,22,23397.43499,PhD,Married,16,New,1,Electronics,3
+627,Male,50,39644.20061,High School,Single,80,New,3,Home,8
+628,Female,31,50061.39512,Master,Divorced,38,New,4,Clothing,9
+629,Male,29,61897.5405,PhD,Married,41,Returning,2,Health,3
+630,Male,59,49751.96375,Bachelor,Divorced,7,Loyal,2,Electronics,9
+631,Male,37,53780.90514,PhD,Divorced,78,New,2,Clothing,8
+632,Female,41,44358.01429,High School,Single,53,Returning,0,Health,5
+633,Male,60,76238.36304,Master,Single,63,Loyal,0,Health,3
+634,Male,51,34726.25534,High School,Divorced,89,Returning,0,Home,7
+635,Female,42,39511.42674,High School,Married,32,Returning,0,Health,9
+636,Female,46,42614.62889,High School,Married,38,New,1,Health,6
+637,Male,56,58140.56597,Bachelor,Single,22,Loyal,2,Home,3
+638,Male,48,34417.10315,Master,Single,16,Returning,3,Clothing,5
+639,Female,64,52035.77886,Master,Single,52,Loyal,6,Clothing,7
+640,Female,60,52473.65215,Bachelor,Single,29,New,3,Home,8
+641,Female,40,39584.63044,Master,Single,16,Loyal,2,Electronics,4
+642,Female,61,54949.69191,High School,Single,76,Returning,2,Home,2
+643,Female,55,34882.79152,Master,Single,17,Returning,0,Clothing,2
+644,Male,37,33243.88786,Bachelor,Married,64,Loyal,1,Electronics,3
+645,Female,40,51494.08635,High School,Single,91,Returning,2,Home,8
+646,Male,62,25103.66622,Bachelor,Single,89,Returning,1,Clothing,1
+647,Male,33,17827.95946,PhD,Married,13,Returning,1,Clothing,7
+648,Male,59,57992.49951,High School,Married,72,New,0,Clothing,6
+649,Female,25,65734.54914,High School,Divorced,56,New,0,Health,2
+650,Male,38,42997.95322,Master,Single,5,Returning,3,Health,9
+651,Male,18,39978.94022,High School,Single,12,Loyal,1,Electronics,5
+652,Female,25,65083.02839,Bachelor,Single,41,New,1,Electronics,2
+653,Male,46,32816.92673,Master,Single,3,Loyal,4,Electronics,3
+654,Male,49,29549.41063,PhD,Divorced,99,Returning,3,Health,7
+655,Female,55,60614.54636,Bachelor,Married,33,Returning,2,Electronics,7
+656,Male,22,50135.5728,PhD,Married,86,Loyal,5,Clothing,1
+657,Male,64,65973.15109,PhD,Single,50,New,2,Clothing,4
+658,Male,39,17896.01182,PhD,Single,56,Loyal,1,Electronics,6
+659,Female,64,28989.89013,High School,Single,9,Loyal,4,Electronics,8
+660,Female,51,50214.9809,Bachelor,Divorced,82,Returning,4,Health,3
+661,Female,18,56265.10548,Bachelor,Divorced,50,New,4,Clothing,3
+662,Male,43,62704.95632,High School,Married,29,Loyal,3,Home,8
+663,Male,60,52622.26653,Master,Single,39,New,1,Home,8
+664,Female,27,52469.82733,PhD,Single,91,Returning,3,Health,8
+665,Male,47,44158.97685,Bachelor,Single,45,New,0,Health,1
+666,Male,35,73863.57357,High School,Single,17,Returning,0,Health,8
+667,Female,34,33454.64817,PhD,Divorced,56,New,4,Clothing,8
+668,Female,43,55385.30229,Master,Married,98,Loyal,5,Electronics,2
+669,Male,25,35182.86748,Master,Married,46,Returning,2,Electronics,9
+670,Male,64,58021.67819,PhD,Divorced,67,Loyal,1,Health,7
+671,Male,57,34444.73646,Master,Single,69,Returning,1,Clothing,8
+672,Female,29,61157.23548,Bachelor,Married,14,New,1,Home,2
+673,Female,44,51681.5742,Bachelor,Married,67,New,3,Health,4
+674,Female,25,76169.5876,Bachelor,Divorced,23,Returning,0,Clothing,7
+675,Female,42,45784.70529,Master,Single,94,Returning,2,Health,6
+676,Male,63,56374.49174,Bachelor,Married,61,Returning,0,Clothing,7
+677,Female,21,38305.15579,High School,Single,23,New,2,Clothing,1
+678,Female,50,45681.6049,Bachelor,Married,27,Returning,0,Health,8
+679,Female,18,51586.24219,Bachelor,Divorced,54,Returning,5,Electronics,7
+680,Female,36,27091.70116,Master,Single,10,Loyal,2,Health,4
+681,Female,48,28735.64099,Bachelor,Divorced,89,Returning,2,Electronics,1
+682,Male,33,58997.8895,PhD,Married,77,Loyal,7,Electronics,8
+683,Male,31,47808.69768,High School,Divorced,16,Loyal,1,Home,7
+684,Female,22,41106.102,Master,Divorced,41,Loyal,3,Clothing,8
+685,Male,58,38945.20729,High School,Divorced,98,New,0,Health,1
+686,Female,43,39522.66806,PhD,Married,55,Loyal,1,Clothing,5
+687,Female,45,51688.26073,Master,Single,61,Returning,2,Home,9
+688,Male,19,56675.53796,Master,Divorced,86,New,1,Electronics,5
+689,Male,23,18618.39156,Bachelor,Single,81,New,2,Health,3
+690,Female,26,71192.51085,High School,Married,87,New,0,Clothing,9
+691,Female,50,70125.51144,PhD,Single,49,New,1,Home,9
+692,Female,58,15040.17855,PhD,Divorced,73,New,0,Electronics,4
+693,Male,42,66288.90044,Master,Divorced,52,New,4,Electronics,4
+694,Female,30,65828.28277,Bachelor,Divorced,2,New,2,Clothing,8
+695,Female,26,50006.68241,Master,Divorced,96,Loyal,1,Electronics,7
+696,Female,30,30542.47067,Master,Divorced,50,Returning,0,Home,5
+697,Male,48,65228.42137,Master,Divorced,86,Returning,8,Electronics,6
+698,Female,58,46381.53401,Master,Married,43,Loyal,1,Health,3
+699,Female,28,58233.18266,PhD,Married,77,Loyal,3,Health,6
+700,Male,21,83288.01908,PhD,Married,8,New,2,Clothing,8
+701,Female,51,53777.55126,Master,Single,59,New,1,Home,9
+702,Female,55,36246.72962,Master,Single,65,Loyal,1,Electronics,3
+703,Male,63,44964.03508,Bachelor,Married,81,New,4,Electronics,8
+704,Female,21,38158.3196,Master,Single,12,Returning,1,Electronics,3
+705,Male,55,56502.34576,PhD,Single,4,Returning,1,Health,2
+706,Male,36,37908.98662,High School,Divorced,77,New,2,Home,5
+707,Female,23,42907.22866,PhD,Divorced,95,New,2,Electronics,4
+708,Female,51,30733.54438,Bachelor,Single,41,New,0,Clothing,5
+709,Female,35,48018.69492,PhD,Single,7,Returning,2,Home,6
+710,Female,30,52651.3219,High School,Married,87,New,1,Home,3
+711,Male,58,9728.179293,Master,Single,88,Loyal,3,Electronics,1
+712,Female,40,53893.60342,High School,Divorced,69,New,1,Health,4
+713,Male,36,49314.49653,Master,Single,69,Loyal,2,Home,6
+714,Female,62,38525.12077,Master,Married,81,New,6,Clothing,2
+715,Female,28,80429.43386,PhD,Divorced,30,New,3,Home,2
+716,Female,18,64377.14791,PhD,Divorced,73,Returning,0,Health,1
+717,Male,41,33553.96271,PhD,Divorced,6,Loyal,2,Clothing,9
+718,Female,24,62573.55319,Bachelor,Divorced,89,Loyal,4,Health,3
+719,Female,42,68667.47114,PhD,Single,19,Loyal,0,Electronics,2
+720,Female,38,51980.31384,Bachelor,Married,80,Returning,3,Home,4
+721,Female,32,55421.63055,PhD,Single,85,Loyal,2,Clothing,6
+722,Male,18,55075.2,Master,Single,66,Returning,3,Health,1
+723,Female,29,18712.76212,Bachelor,Divorced,10,New,2,Electronics,9
+724,Male,24,47196.95605,High School,Married,16,New,3,Clothing,9
+725,Male,32,46416.30737,Bachelor,Divorced,37,Loyal,1,Home,8
+726,Male,38,71452.33455,Bachelor,Single,79,New,3,Home,6
+727,Male,36,55005.91795,High School,Single,77,New,1,Health,4
+728,Male,46,45535.83557,Bachelor,Divorced,77,Loyal,5,Clothing,2
+729,Male,42,48648.12889,Master,Single,32,New,0,Electronics,8
+730,Female,50,65350.78372,PhD,Single,47,Loyal,6,Electronics,7
+731,Male,49,47231.23005,High School,Divorced,72,Loyal,3,Electronics,4
+732,Male,52,39527.067,PhD,Single,43,New,2,Health,3
+733,Male,61,45864.46711,Master,Married,82,New,3,Electronics,6
+734,Female,55,64110.44216,High School,Divorced,36,New,1,Clothing,1
+735,Female,43,57442.47358,PhD,Married,26,New,3,Health,2
+736,Male,28,50664.0196,PhD,Single,10,New,1,Home,7
+737,Female,52,52873.08949,Master,Single,31,Returning,2,Health,3
+738,Male,25,41603.8629,PhD,Divorced,97,New,2,Health,1
+739,Male,63,47090.75899,Master,Single,29,Returning,1,Health,2
+740,Female,31,40050.43517,Bachelor,Divorced,5,Loyal,2,Clothing,9
+741,Male,27,45578.31074,Master,Divorced,77,New,2,Home,7
+742,Female,19,70192.67395,Bachelor,Divorced,1,New,2,Home,7
+743,Female,63,33831.92283,High School,Divorced,87,New,5,Health,8
+744,Male,26,39669.235,PhD,Divorced,3,Loyal,1,Health,8
+745,Male,20,31185.51706,Master,Married,67,Returning,0,Health,9
+746,Female,38,27936.36864,Master,Divorced,71,Returning,4,Clothing,2
+747,Male,43,47198.42129,PhD,Married,35,New,4,Clothing,8
+748,Male,25,40735.86227,PhD,Single,15,New,3,Electronics,8
+749,Male,19,76425.33396,High School,Divorced,67,New,4,Home,5
+750,Female,23,45757.30181,High School,Single,93,New,2,Electronics,5
+751,Female,45,69340.95295,Master,Divorced,30,Loyal,0,Electronics,4
+752,Male,46,64520.09712,High School,Married,82,New,0,Health,5
+753,Female,43,46865.68767,Bachelor,Married,75,Loyal,3,Clothing,2
+754,Female,42,81652.03373,High School,Married,43,New,4,Electronics,2
+755,Female,29,54028.0098,High School,Single,60,Returning,2,Electronics,5
+756,Female,22,72695.13899,Master,Divorced,40,Returning,0,Electronics,3
+757,Female,51,70948.95337,Bachelor,Single,65,New,0,Health,1
+758,Male,54,56219.71978,High School,Married,29,New,1,Health,9
+759,Male,32,61266.96272,Bachelor,Single,74,Loyal,1,Clothing,2
+760,Male,61,59361.07123,Bachelor,Married,92,New,2,Electronics,2
+761,Female,53,32836.07853,Bachelor,Married,95,New,0,Electronics,4
+762,Female,32,50859.35532,PhD,Married,19,New,0,Clothing,2
+763,Male,60,66113.70851,PhD,Divorced,3,Returning,1,Clothing,7
+764,Female,40,72892.79476,PhD,Divorced,36,Loyal,2,Clothing,1
+765,Male,23,39190.40492,PhD,Married,43,Returning,1,Home,2
+766,Male,63,57932.46953,Master,Single,15,Loyal,4,Clothing,5
+767,Male,61,52263.0532,High School,Single,97,Returning,2,Health,2
+768,Female,60,48231.88903,PhD,Divorced,41,New,3,Home,9
+769,Female,62,55340.03944,Master,Married,90,Returning,2,Clothing,4
+770,Male,38,53269.96116,High School,Single,80,Returning,3,Health,9
+771,Male,40,58121.11353,PhD,Married,36,Loyal,0,Clothing,1
+772,Male,60,71625.75141,High School,Single,97,Loyal,4,Clothing,1
+773,Male,33,61761.91386,PhD,Divorced,84,Returning,2,Home,1
+774,Female,64,54658.86888,Master,Married,77,Loyal,2,Health,4
+775,Female,32,77969.37585,Bachelor,Married,33,Loyal,1,Electronics,9
+776,Male,42,66648.94394,Bachelor,Single,5,Loyal,2,Clothing,8
+777,Male,53,48614.02342,High School,Single,78,Loyal,1,Home,7
+778,Female,28,31743.19396,Master,Single,91,Loyal,1,Health,1
+779,Female,32,35182.53979,Bachelor,Married,87,Returning,0,Clothing,3
+780,Male,21,63998.48672,PhD,Divorced,14,Loyal,3,Electronics,9
+781,Male,38,40545.31281,Bachelor,Divorced,68,New,5,Health,9
+782,Male,30,34879.16784,High School,Single,83,Returning,2,Health,5
+783,Female,39,38628.7201,High School,Divorced,47,Returning,1,Home,6
+784,Female,36,39689.23532,Master,Single,54,Returning,0,Clothing,6
+785,Female,51,62759.71502,High School,Divorced,4,Loyal,1,Clothing,4
+786,Male,31,47648.86886,Bachelor,Married,94,New,2,Health,1
+787,Male,21,29414.381,Bachelor,Single,83,Loyal,0,Clothing,5
+788,Female,63,50465.67347,Bachelor,Divorced,95,Returning,2,Health,1
+789,Female,44,53333.99199,Bachelor,Married,95,Returning,1,Electronics,1
+790,Male,46,42809.94708,Master,Divorced,9,Returning,1,Home,5
+791,Female,64,67338.27626,PhD,Married,53,Returning,5,Clothing,5
+792,Female,45,43685.91671,PhD,Married,77,Loyal,0,Clothing,7
+793,Male,52,66625.0653,Master,Divorced,78,New,2,Home,2
+794,Female,25,58951.7417,High School,Divorced,60,New,0,Electronics,6
+795,Male,33,63899.08262,PhD,Married,46,Returning,0,Electronics,2
+796,Male,59,33521.73739,High School,Married,54,New,0,Electronics,5
+797,Male,53,51474.65288,PhD,Married,74,Returning,3,Electronics,4
+798,Male,47,49207.57993,High School,Single,95,Returning,4,Electronics,5
+799,Male,35,28669.90213,Master,Married,37,New,4,Health,2
+800,Male,19,66575.91095,Bachelor,Single,23,Returning,1,Clothing,8
+801,Male,30,37738.98655,High School,Married,27,New,2,Clothing,8
+802,Female,21,40856.48257,Bachelor,Single,70,Returning,2,Clothing,6
+803,Male,43,34800.26247,High School,Married,90,New,1,Health,3
+804,Male,42,60517.79489,High School,Married,66,Returning,3,Home,4
+805,Female,47,27111.05422,High School,Married,61,New,3,Electronics,1
+806,Female,28,59268.12201,High School,Divorced,77,Returning,2,Home,9
+807,Female,24,65667.70979,High School,Divorced,51,Returning,1,Electronics,5
+808,Male,48,58057.67641,Bachelor,Married,50,Returning,3,Electronics,8
+809,Female,61,60689.42726,High School,Single,19,New,0,Home,3
+810,Male,27,61393.19704,Bachelor,Single,1,Loyal,3,Clothing,4
+811,Male,56,35758.6351,Master,Married,40,Returning,2,Health,4
+812,Male,30,71521.02469,PhD,Divorced,32,Returning,1,Home,8
+813,Male,48,43098.85619,High School,Single,22,New,3,Clothing,9
+814,Female,24,49004.18574,PhD,Divorced,93,Returning,3,Electronics,3
+815,Female,59,45010.44022,Bachelor,Single,66,Returning,2,Clothing,7
+816,Male,59,57373.13181,Master,Married,40,Returning,3,Electronics,9
+817,Male,53,41929.44135,Master,Divorced,38,Returning,2,Electronics,2
+818,Male,37,51003.73586,Master,Single,48,Loyal,1,Clothing,4
+819,Female,21,31469.84274,PhD,Married,55,Loyal,3,Electronics,3
+820,Male,24,67469.97813,Bachelor,Married,75,Returning,1,Health,8
+821,Male,18,60061.11419,High School,Married,81,Returning,2,Clothing,4
+822,Female,61,45616.10357,High School,Divorced,55,Returning,2,Home,9
+823,Female,62,42962.76455,Bachelor,Divorced,51,Loyal,4,Electronics,1
+824,Male,59,59669.42369,PhD,Married,60,Loyal,1,Electronics,1
+825,Female,64,39390.59929,High School,Divorced,8,New,1,Health,4
+826,Female,30,51880.47974,Bachelor,Single,86,New,2,Health,3
+827,Male,39,67420.98181,High School,Married,68,Returning,3,Home,3
+828,Female,38,37831.14321,Master,Married,75,Returning,1,Electronics,2
+829,Male,39,55529.01244,High School,Divorced,72,Loyal,1,Home,2
+830,Female,45,54735.879,PhD,Married,9,Returning,2,Home,8
+831,Male,26,48539.94772,Bachelor,Single,90,Returning,1,Electronics,1
+832,Male,43,42443.15624,PhD,Divorced,2,Loyal,2,Home,8
+833,Male,26,68221.95585,Bachelor,Divorced,80,Loyal,2,Home,3
+834,Female,32,41036.47046,Master,Married,95,Loyal,1,Health,2
+835,Male,27,22819.41648,Bachelor,Married,70,Loyal,1,Health,9
+836,Female,41,59608.00387,High School,Married,85,New,2,Home,5
+837,Male,59,31980.44975,High School,Divorced,90,Loyal,1,Electronics,5
+838,Male,25,60378.21717,Master,Married,59,Loyal,2,Health,6
+839,Female,41,70023.54872,Bachelor,Single,19,Returning,2,Home,4
+840,Male,33,59446.24818,Master,Married,28,Returning,3,Clothing,7
+841,Male,43,66071.16953,High School,Married,72,Returning,3,Clothing,7
+842,Female,44,80300.7366,PhD,Divorced,14,New,2,Home,9
+843,Male,54,64501.40694,Master,Married,24,Loyal,4,Clothing,6
+844,Male,21,54958.60089,PhD,Divorced,44,Loyal,4,Health,1
+845,Male,41,74509.22275,PhD,Married,56,New,1,Electronics,9
+846,Male,36,76321.63317,Bachelor,Single,90,Loyal,3,Home,9
+847,Female,53,76531.57675,Master,Single,95,Returning,1,Health,5
+848,Female,56,42617.84727,PhD,Divorced,51,New,0,Electronics,7
+849,Male,27,29689.72462,PhD,Divorced,32,Loyal,3,Clothing,1
+850,Female,42,41702.11725,Bachelor,Married,50,New,3,Clothing,4
+851,Male,35,60554.62424,Bachelor,Married,41,New,0,Clothing,4
+852,Female,36,52387.38418,High School,Single,66,Loyal,0,Clothing,5
+853,Male,53,46902.78522,PhD,Married,25,Returning,4,Health,6
+854,Male,27,58407.22098,High School,Single,61,Loyal,1,Health,4
+855,Male,50,27937.92377,PhD,Divorced,66,Loyal,4,Electronics,6
+856,Male,22,52117.53948,High School,Married,42,Returning,2,Home,7
+857,Male,64,66776.86467,Bachelor,Divorced,65,Loyal,2,Electronics,3
+858,Male,52,58239.73467,Master,Married,36,Loyal,3,Home,9
+859,Female,61,60377.14733,Bachelor,Single,76,Loyal,2,Clothing,8
+860,Male,51,73960.59185,High School,Divorced,9,New,2,Clothing,1
+861,Female,50,49007.85073,High School,Divorced,36,New,0,Clothing,2
+862,Male,38,40203.62508,Master,Married,92,New,3,Clothing,2
+863,Female,34,67842.72564,PhD,Divorced,38,Loyal,2,Health,9
+864,Female,39,67566.80947,High School,Single,33,Returning,2,Electronics,9
+865,Female,54,58374.37512,High School,Divorced,42,New,1,Home,9
+866,Male,32,47594.43499,High School,Divorced,61,Returning,1,Home,1
+867,Male,52,50020.69477,Master,Married,46,Loyal,1,Health,7
+868,Female,45,30848.40572,Bachelor,Divorced,86,New,3,Clothing,3
+869,Male,24,66694.19795,High School,Married,89,Loyal,1,Electronics,9
+870,Female,49,66164.76964,Master,Married,61,Returning,4,Clothing,8
+871,Male,28,30324.75874,High School,Divorced,18,New,2,Health,3
+872,Female,27,63014.48126,PhD,Single,70,New,1,Home,1
+873,Female,26,56061.52483,Master,Married,82,New,1,Health,9
+874,Male,31,34670.38834,High School,Divorced,80,New,3,Home,1
+875,Female,30,31909.99698,Master,Married,15,Returning,2,Electronics,3
+876,Male,42,55602.39904,High School,Single,48,New,0,Home,6
+877,Female,19,44034.43829,Bachelor,Single,72,Loyal,3,Electronics,6
+878,Female,52,77299.23276,High School,Married,13,New,1,Clothing,4
+879,Male,24,64288.97592,Master,Single,43,Returning,0,Clothing,2
+880,Male,38,57105.39705,PhD,Divorced,60,New,6,Health,6
+881,Male,35,57846.18506,PhD,Divorced,57,Returning,1,Electronics,5
+882,Female,20,69963.00771,PhD,Married,71,Returning,4,Clothing,6
+883,Male,59,62697.77138,High School,Single,17,Loyal,3,Electronics,7
+884,Female,56,57496.49658,Bachelor,Divorced,50,New,3,Clothing,9
+885,Female,58,35296.08236,High School,Divorced,32,New,3,Clothing,7
+886,Male,28,95929.20448,PhD,Divorced,22,New,3,Home,4
+887,Male,56,33452.25864,Master,Married,55,Loyal,1,Health,5
+888,Female,41,45311.85894,PhD,Married,57,Loyal,0,Home,6
+889,Female,63,25179.07585,Master,Divorced,13,Returning,1,Electronics,9
+890,Male,36,58081.97238,Bachelor,Divorced,47,Returning,1,Clothing,5
+891,Male,21,52266.65656,Master,Single,87,Returning,0,Health,5
+892,Male,43,61479.14658,High School,Single,62,Loyal,1,Clothing,7
+893,Male,55,23914.01553,High School,Single,54,Loyal,3,Clothing,2
+894,Male,59,66693.58501,High School,Married,29,Loyal,0,Home,3
+895,Female,49,37888.46898,Master,Divorced,22,Returning,0,Electronics,2
+896,Female,56,47764.92201,High School,Married,65,Loyal,2,Health,2
+897,Female,62,63973.56903,High School,Divorced,29,Returning,1,Health,3
+898,Female,63,53919.00026,High School,Single,48,Returning,4,Health,6
+899,Male,53,54979.13835,Bachelor,Single,5,New,0,Electronics,5
+900,Male,57,61987.6823,Master,Single,35,New,2,Health,5
+901,Male,54,56431.8596,Master,Single,74,New,4,Electronics,2
+902,Female,50,44883.38146,PhD,Divorced,83,Returning,2,Health,2
+903,Female,53,47502.96308,Master,Single,71,New,4,Clothing,1
+904,Male,20,53178.18018,Bachelor,Divorced,46,New,1,Electronics,3
+905,Male,26,36566.6586,Master,Divorced,35,New,2,Home,7
+906,Female,25,64940.12989,Bachelor,Married,45,Loyal,0,Health,5
+907,Female,50,54329.80896,Bachelor,Single,13,Returning,2,Home,7
+908,Male,23,51121.64402,Master,Single,10,New,2,Electronics,9
+909,Male,58,67887.44839,PhD,Married,66,Loyal,4,Clothing,6
+910,Female,56,48198.29535,High School,Divorced,70,Loyal,1,Home,2
+911,Male,21,47263.68504,High School,Single,72,Loyal,5,Home,1
+912,Male,30,42730.56854,Master,Divorced,25,New,1,Clothing,1
+913,Male,19,55146.00513,Master,Married,44,Loyal,0,Clothing,9
+914,Female,22,54626.75162,Bachelor,Divorced,60,Returning,3,Electronics,6
+915,Female,61,40005.73699,Master,Single,47,Loyal,1,Health,6
+916,Female,44,47334.59034,Bachelor,Divorced,40,Loyal,3,Home,4
+917,Female,49,40105.96597,PhD,Divorced,7,Loyal,4,Home,2
+918,Female,38,39426.97319,Master,Single,46,Loyal,0,Electronics,3
+919,Female,25,24051.53252,High School,Single,23,Returning,1,Health,3
+920,Female,55,46536.34619,High School,Divorced,83,New,2,Electronics,8
+921,Male,25,24466.80101,Master,Divorced,46,Returning,1,Home,6
+922,Male,20,43057.7647,Bachelor,Married,86,Returning,4,Home,7
+923,Male,61,40809.58031,High School,Single,13,New,1,Clothing,9
+924,Male,20,65778.42586,Bachelor,Divorced,21,Loyal,4,Clothing,1
+925,Male,39,34775.97791,Master,Single,1,New,0,Health,2
+926,Male,23,38582.20423,Master,Married,19,New,0,Home,9
+927,Male,19,44277.13791,High School,Divorced,60,Returning,2,Home,5
+928,Female,40,41297.84523,Master,Divorced,33,New,4,Clothing,4
+929,Female,61,70538.82196,PhD,Divorced,4,Loyal,4,Electronics,1
+930,Male,19,32921.4894,PhD,Single,3,Returning,1,Electronics,9
+931,Male,55,44308.93252,High School,Married,91,Loyal,3,Home,9
+932,Female,34,54980.97874,PhD,Single,52,Returning,1,Home,4
+933,Male,52,63217.75015,Bachelor,Divorced,99,Loyal,1,Health,9
+934,Male,51,44296.37666,High School,Married,28,New,1,Health,1
+935,Female,40,21228.50599,High School,Divorced,70,New,2,Clothing,5
+936,Male,47,47748.43668,Bachelor,Divorced,70,New,3,Home,1
+937,Female,25,70280.42714,PhD,Single,55,Loyal,3,Electronics,4
+938,Male,39,54232.81111,PhD,Divorced,57,Returning,0,Health,5
+939,Female,61,53546.26794,PhD,Married,87,Returning,0,Clothing,3
+940,Female,53,34054.73013,High School,Divorced,97,Returning,0,Clothing,2
+941,Female,22,32514.92615,High School,Divorced,16,New,1,Electronics,6
+942,Male,30,50270.62473,PhD,Single,24,Loyal,2,Health,3
+943,Female,46,28604.31617,Master,Married,69,Returning,3,Electronics,1
+944,Male,48,61720.43334,PhD,Single,41,Loyal,2,Clothing,5
+945,Male,64,37300.30627,Bachelor,Divorced,77,Returning,3,Home,2
+946,Male,33,49630.14079,High School,Single,47,New,3,Electronics,2
+947,Male,59,21713.49622,Bachelor,Single,76,Loyal,4,Clothing,4
+948,Female,47,44092.97197,Bachelor,Single,69,Returning,2,Home,4
+949,Female,33,32212.09179,High School,Single,31,Returning,1,Home,4
+950,Male,29,15170.65374,Master,Divorced,92,Returning,2,Health,7
+951,Male,34,58127.63134,PhD,Divorced,92,Returning,2,Health,1
+952,Female,33,74617.39309,Bachelor,Married,30,New,2,Clothing,8
+953,Male,29,66942.10384,High School,Single,18,Returning,1,Electronics,9
+954,Female,25,60225.36035,Bachelor,Single,44,Returning,1,Home,6
+955,Male,37,43788.18248,PhD,Married,27,New,0,Health,4
+956,Male,20,62088.35343,Master,Single,99,Returning,0,Health,6
+957,Female,33,68357.79798,Master,Married,26,Loyal,2,Electronics,7
+958,Male,47,52052.32745,Master,Divorced,60,Loyal,1,Health,6
+959,Female,62,32234.59742,High School,Married,18,Returning,7,Clothing,1
+960,Male,40,42509.23552,High School,Single,97,New,1,Electronics,5
+961,Male,45,75540.44733,Master,Married,89,New,1,Home,8
+962,Male,57,48878.83748,PhD,Divorced,56,New,1,Clothing,8
+963,Female,22,128.6642013,PhD,Single,31,Returning,2,Home,9
+964,Male,37,27966.14804,High School,Divorced,59,Returning,4,Home,4
+965,Male,57,43633.26945,Master,Divorced,2,Loyal,2,Health,6
+966,Male,61,65537.37858,PhD,Married,97,New,1,Clothing,7
+967,Male,18,45903.16471,PhD,Divorced,39,Returning,1,Clothing,5
+968,Female,47,65816.47482,PhD,Single,61,Returning,1,Electronics,8
+969,Female,38,42107.5647,High School,Divorced,63,Returning,0,Clothing,3
+970,Male,37,20535.61217,Master,Divorced,96,New,4,Electronics,8
+971,Female,23,42626.58262,Bachelor,Married,18,New,1,Clothing,5
+972,Male,39,55174.17502,Master,Divorced,17,Loyal,3,Home,1
+973,Male,35,53929.25524,Master,Married,98,New,3,Electronics,6
+974,Male,25,31173.38376,High School,Married,39,Returning,3,Clothing,2
+975,Female,56,44732.05697,PhD,Single,71,Loyal,2,Electronics,7
+976,Female,49,90270.11357,PhD,Single,54,New,2,Health,9
+977,Female,50,31500.96761,High School,Single,99,New,3,Health,3
+978,Female,33,59910.85092,High School,Single,94,New,2,Electronics,4
+979,Female,29,18549.86452,High School,Married,76,New,0,Electronics,4
+980,Female,55,62956.87737,High School,Divorced,35,Returning,3,Home,4
+981,Female,51,36615.11915,High School,Single,11,New,2,Clothing,3
+982,Female,31,56031.32387,Bachelor,Single,61,Returning,4,Health,5
+983,Female,53,30627.11597,Master,Single,44,Returning,2,Health,9
+984,Male,50,54362.792,Master,Divorced,68,Returning,1,Clothing,8
+985,Female,40,36370.24556,Master,Single,25,Loyal,3,Health,2
+986,Female,62,39274.27726,PhD,Divorced,48,Returning,2,Health,9
+987,Female,19,56629.7901,Bachelor,Married,32,New,2,Electronics,2
+988,Female,58,43544.21785,Master,Married,84,Loyal,0,Health,7
+989,Female,38,55705.72172,PhD,Married,95,New,0,Health,5
+990,Female,19,47137.38022,Bachelor,Divorced,4,Returning,4,Health,7
+991,Female,44,51012.40522,Bachelor,Single,38,New,1,Clothing,5
+992,Female,26,56676.29707,PhD,Single,63,Loyal,2,Home,6
+993,Female,18,44749.72318,Bachelor,Single,47,Loyal,1,Electronics,8
+994,Female,28,35059.25321,PhD,Single,1,New,1,Home,1
+995,Female,20,42015.31601,Master,Single,3,New,1,Health,1
+996,Male,40,67927.0877,PhD,Divorced,86,New,2,Health,5
+997,Male,43,51742.59626,Bachelor,Married,62,Loyal,3,Health,1
+998,Female,21,37326.5232,Master,Single,64,Returning,2,Home,3
+999,Female,35,56023.40913,Master,Married,17,New,1,Clothing,9
+1000,Male,23,57024.73377,High School,Divorced,78,Returning,1,Clothing,7
+1001,Female,52,57799.98614,High School,Divorced,62,Loyal,2,Electronics,6
+1002,Male,39,35332.44199,Bachelor,Single,35,New,1,Home,8
+1003,Male,60,39764.13509,PhD,Divorced,13,New,3,Clothing,8
+1004,Male,32,39847.56175,PhD,Married,35,Loyal,2,Electronics,6
+1005,Male,39,44590.28132,Bachelor,Single,43,New,1,Health,4
+1006,Male,54,58083.78778,Master,Single,2,Returning,3,Health,4
+1007,Female,59,54442.77207,Bachelor,Married,56,Loyal,3,Electronics,4
+1008,Male,29,55628.25436,Bachelor,Single,77,Loyal,4,Clothing,6
+1009,Female,64,70310.28714,Master,Single,51,New,0,Home,1
+1010,Female,59,60333.36399,PhD,Married,54,Loyal,4,Electronics,2
+1011,Male,55,47872.97563,Bachelor,Single,16,New,2,Clothing,6
+1012,Male,35,32241.72236,PhD,Single,18,New,2,Electronics,1
+1013,Female,62,39281.79487,Bachelor,Married,7,Loyal,0,Clothing,9
+1014,Male,52,46074.42398,Master,Divorced,45,New,1,Health,6
+1015,Male,47,62436.94741,Master,Married,36,Returning,4,Electronics,7
+1016,Female,41,49590.02099,High School,Single,41,Returning,2,Home,1
+1017,Female,59,40157.06068,Master,Married,94,New,3,Electronics,8
+1018,Male,47,39006.60671,High School,Single,42,Returning,2,Health,5
+1019,Female,31,48956.32687,Bachelor,Single,7,New,7,Health,5
+1020,Male,23,63349.81343,PhD,Married,15,Returning,2,Clothing,6
+1021,Male,20,73865.28959,Master,Single,60,Loyal,3,Health,7
+1022,Male,33,46913.47103,Master,Divorced,40,New,0,Clothing,7
+1023,Female,24,49328.85229,Master,Single,83,New,2,Health,5
+1024,Female,31,31790.87441,Bachelor,Married,37,New,3,Clothing,1
+1025,Female,26,79087.88854,High School,Divorced,66,New,3,Home,9
+1026,Female,32,28984.95743,Bachelor,Divorced,55,New,3,Clothing,6
+1027,Female,38,67574.93468,PhD,Single,77,New,3,Clothing,9
+1028,Male,52,44519.9607,Bachelor,Married,95,Loyal,1,Home,4
+1029,Male,19,41009.50259,PhD,Single,80,Loyal,2,Clothing,2
+1030,Male,44,33349.94642,Master,Single,56,Returning,2,Clothing,3
+1031,Male,19,86150.72974,PhD,Married,44,New,1,Home,4
+1032,Female,52,53322.37435,PhD,Married,57,Returning,1,Health,8
+1033,Male,35,50319.20656,High School,Single,6,Returning,3,Electronics,3
+1034,Female,31,63300.98539,PhD,Divorced,92,Loyal,4,Clothing,8
+1035,Male,37,40237.50912,PhD,Single,32,Returning,1,Health,6
+1036,Female,35,50027.68933,Bachelor,Divorced,74,Loyal,0,Electronics,4
+1037,Female,27,50845.0443,Master,Single,18,Returning,2,Home,7
+1038,Male,42,42317.81401,Bachelor,Married,68,New,1,Clothing,5
+1039,Male,19,67994.57119,Bachelor,Divorced,73,Returning,2,Clothing,5
+1040,Male,42,46720.18383,Master,Married,7,Loyal,3,Home,9
+1041,Male,50,26703.0192,Master,Married,8,Loyal,2,Clothing,3
+1042,Female,53,45477.53955,PhD,Married,64,Loyal,0,Electronics,4
+1043,Male,48,53737.68008,PhD,Married,7,Returning,1,Electronics,5
+1044,Male,31,36597.60149,High School,Married,41,Returning,1,Home,1
+1045,Female,18,37781.0781,Bachelor,Single,40,Loyal,0,Clothing,7
+1046,Male,63,41806.11443,Master,Divorced,3,New,4,Health,8
+1047,Male,33,68318.5349,PhD,Single,17,New,1,Clothing,6
+1048,Male,63,42692.62966,Master,Single,66,Returning,2,Home,9
+1049,Male,20,71436.75528,PhD,Single,79,Returning,0,Health,3
+1050,Male,52,40775.74343,High School,Married,93,Loyal,4,Electronics,2
+1051,Female,58,54875.21204,High School,Single,52,Returning,0,Electronics,5
+1052,Male,23,43306.35989,Master,Divorced,22,Returning,1,Health,9
+1053,Male,42,61311.24755,High School,Single,4,Loyal,2,Health,1
+1054,Male,30,33225.88768,Master,Married,6,Loyal,3,Home,1
+1055,Male,51,61142.89219,PhD,Divorced,38,Returning,1,Clothing,3
+1056,Male,25,51708.041,Bachelor,Divorced,26,New,2,Electronics,3
+1057,Female,38,40400.12275,High School,Divorced,11,Returning,4,Clothing,5
+1058,Male,51,47506.67773,PhD,Divorced,90,New,6,Electronics,4
+1059,Female,21,73007.82412,Bachelor,Single,17,New,0,Clothing,6
+1060,Female,42,52067.66757,Bachelor,Married,88,New,1,Electronics,8
+1061,Male,32,39459.07976,Bachelor,Divorced,92,Loyal,1,Clothing,8
+1062,Male,21,31929.60076,PhD,Divorced,99,Loyal,2,Home,4
+1063,Male,62,57581.0641,PhD,Married,31,Loyal,0,Electronics,1
+1064,Male,29,52937.67871,Master,Single,77,Returning,3,Home,7
+1065,Female,49,60425.31043,Bachelor,Divorced,35,Loyal,5,Electronics,6
+1066,Male,49,28066.6289,Bachelor,Single,16,Loyal,1,Electronics,5
+1067,Male,45,32416.09321,Bachelor,Single,79,Returning,4,Electronics,4
+1068,Male,30,67203.18799,Master,Single,18,Returning,2,Clothing,6
+1069,Male,48,54970.1247,Bachelor,Single,62,New,2,Electronics,8
+1070,Male,31,58001.01277,PhD,Divorced,27,Returning,3,Home,6
+1071,Male,37,35559.69452,Bachelor,Divorced,35,Returning,2,Clothing,3
+1072,Female,35,35285.19203,High School,Single,45,Loyal,4,Clothing,9
+1073,Female,46,64868.87987,PhD,Single,35,New,2,Electronics,3
+1074,Male,23,65575.66482,Master,Married,28,New,7,Health,4
+1075,Male,49,33675.20769,Bachelor,Married,9,Returning,1,Clothing,5
+1076,Male,46,30809.44256,High School,Married,76,Loyal,2,Electronics,2
+1077,Female,60,48371.10544,Master,Divorced,15,Loyal,3,Home,2
+1078,Male,19,38009.7732,Master,Married,21,Loyal,1,Health,6
+1079,Female,40,37697.34681,PhD,Divorced,52,Loyal,1,Clothing,2
+1080,Male,36,31229.3263,Master,Divorced,35,Returning,3,Health,1
+1081,Male,48,42973.49228,Master,Divorced,97,Loyal,2,Clothing,8
+1082,Male,22,32679.57886,Master,Divorced,51,New,1,Health,1
+1083,Male,36,33568.98645,Master,Married,83,New,4,Health,6
+1084,Female,51,54475.8777,Bachelor,Single,55,Returning,2,Home,1
+1085,Female,27,49172.02649,Bachelor,Single,87,Loyal,1,Health,8
+1086,Male,42,57273.18022,Bachelor,Single,77,Loyal,2,Home,5
+1087,Male,19,25264.49847,Bachelor,Married,44,Loyal,3,Electronics,3
+1088,Female,28,50148.20915,High School,Single,65,Loyal,1,Clothing,5
+1089,Female,48,81134.56313,Bachelor,Married,93,Returning,0,Home,1
+1090,Female,32,44415.91274,Master,Married,88,Loyal,1,Clothing,1
+1091,Female,26,62371.2351,Bachelor,Married,80,Returning,0,Home,4
+1092,Male,40,62240.10273,Bachelor,Single,25,Loyal,1,Clothing,9
+1093,Female,36,62977.97912,PhD,Single,87,Loyal,2,Home,9
+1094,Male,26,52499.92531,Master,Single,92,New,1,Clothing,1
+1095,Female,52,58491.28974,Bachelor,Divorced,47,Returning,4,Electronics,3
+1096,Female,38,60485.2043,Bachelor,Married,80,New,1,Clothing,4
+1097,Female,26,59531.69042,Bachelor,Divorced,56,Returning,2,Electronics,2
+1098,Female,45,33238.7274,High School,Married,38,Loyal,0,Electronics,7
+1099,Female,63,24389.23276,Bachelor,Single,11,Loyal,0,Electronics,3
+1100,Male,24,26696.24685,PhD,Married,67,Returning,5,Health,1
+1101,Male,33,45947.60011,Master,Married,15,New,0,Clothing,1
+1102,Female,33,58908.90102,Master,Divorced,1,Returning,0,Health,3
+1103,Female,50,33433.83084,Bachelor,Married,7,Returning,1,Health,6
+1104,Male,21,63859.55688,Bachelor,Single,1,Loyal,0,Clothing,4
+1105,Female,21,42465.87238,Bachelor,Married,49,New,1,Electronics,1
+1106,Female,56,42608.67183,Master,Married,96,Returning,1,Health,7
+1107,Male,57,37458.39506,Master,Married,73,New,3,Health,2
+1108,Female,34,21728.20461,High School,Divorced,29,New,1,Home,5
+1109,Female,54,53439.71193,PhD,Married,26,Returning,1,Clothing,8
+1110,Male,56,75690.01569,High School,Married,87,New,3,Health,7
+1111,Male,46,49060.03215,PhD,Divorced,45,Loyal,2,Clothing,8
+1112,Male,53,22240.52537,High School,Divorced,93,Loyal,3,Clothing,6
+1113,Female,55,61705.14217,Master,Divorced,97,Loyal,1,Health,7
+1114,Male,56,25628.03015,High School,Divorced,71,Loyal,0,Clothing,9
+1115,Male,54,31864.48405,PhD,Single,12,New,0,Electronics,6
+1116,Male,52,46424.92742,Bachelor,Single,95,Loyal,1,Health,9
+1117,Male,24,51842.65158,PhD,Married,32,Returning,6,Health,2
+1118,Male,44,34870.03998,Bachelor,Single,20,Loyal,0,Health,2
+1119,Male,45,45840.25915,Master,Married,51,Returning,5,Home,2
+1120,Female,39,60727.43601,PhD,Single,81,Returning,1,Home,6
+1121,Female,31,62782.68327,High School,Divorced,36,Loyal,3,Home,2
+1122,Male,24,68771.84633,PhD,Divorced,67,Loyal,3,Home,3
+1123,Male,54,78641.27978,Bachelor,Single,1,New,2,Health,8
+1124,Male,39,62148.33982,Master,Single,27,Returning,2,Electronics,8
+1125,Female,22,46748.95228,High School,Married,40,Loyal,2,Clothing,4
+1126,Female,19,62889.70687,PhD,Married,97,New,2,Clothing,9
+1127,Female,44,57000.74351,Bachelor,Married,84,Loyal,4,Health,8
+1128,Female,38,57595.50466,High School,Divorced,14,Loyal,2,Electronics,1
+1129,Female,55,52658.28178,Master,Divorced,69,Loyal,1,Clothing,8
+1130,Female,32,36319.18847,High School,Divorced,87,Returning,2,Electronics,1
+1131,Female,38,34578.55388,Master,Divorced,79,Loyal,3,Health,4
+1132,Female,27,48543.22698,High School,Married,6,New,3,Home,6
+1133,Female,40,52233.65114,PhD,Divorced,33,Loyal,1,Electronics,7
+1134,Male,56,39808.38616,Bachelor,Divorced,55,Loyal,3,Clothing,4
+1135,Male,22,56350.12923,PhD,Divorced,19,New,3,Clothing,8
+1136,Male,18,81211.48856,PhD,Divorced,77,New,1,Clothing,8
+1137,Male,30,23835.03921,Master,Single,29,Returning,1,Home,9
+1138,Female,38,58733.66716,Master,Married,61,Returning,0,Electronics,6
+1139,Female,43,49010.38069,Master,Married,70,Returning,1,Electronics,4
+1140,Male,62,56759.83333,PhD,Divorced,79,Returning,2,Clothing,2
+1141,Female,38,43539.27949,High School,Single,80,New,4,Electronics,7
+1142,Male,35,47809.10172,High School,Married,24,Loyal,3,Clothing,3
+1143,Female,54,51942.50677,PhD,Married,23,Loyal,1,Electronics,3
+1144,Male,62,45475.49175,PhD,Divorced,10,Loyal,3,Home,3
+1145,Female,49,27191.88024,Bachelor,Divorced,54,Returning,4,Home,4
+1146,Female,53,46491.27454,Master,Married,41,New,2,Health,2
+1147,Male,34,28753.49558,Master,Married,49,New,3,Health,5
+1148,Female,52,59797.89666,PhD,Single,17,New,1,Health,3
+1149,Male,28,22016.82348,PhD,Married,56,Loyal,0,Electronics,5
+1150,Male,38,65429.81569,High School,Married,45,Returning,1,Home,7
+1151,Male,43,56443.445,PhD,Divorced,30,New,1,Home,9
+1152,Male,21,56500.82924,High School,Married,44,Returning,3,Home,2
+1153,Female,51,17535.35198,PhD,Divorced,74,New,1,Clothing,9
+1154,Female,35,45071.00843,Bachelor,Married,55,Returning,4,Electronics,6
+1155,Female,57,67303.45143,Bachelor,Married,19,New,4,Electronics,6
+1156,Male,52,42220.88031,High School,Married,29,Returning,1,Health,3
+1157,Female,58,33829.06775,Master,Single,2,New,1,Clothing,9
+1158,Male,46,40449.94857,Bachelor,Divorced,36,New,1,Clothing,4
+1159,Female,46,48975.83566,High School,Single,19,Returning,3,Home,5
+1160,Female,55,37229.44325,PhD,Married,7,Returning,3,Health,3
+1161,Female,59,68507.25848,PhD,Single,26,Loyal,2,Electronics,5
+1162,Male,38,49029.98705,High School,Divorced,79,Returning,2,Clothing,8
+1163,Female,59,41666.45978,Master,Married,38,New,4,Home,8
+1164,Female,30,30479.8471,High School,Single,3,New,1,Electronics,8
+1165,Male,58,57266.69908,High School,Single,80,Returning,2,Home,6
+1166,Female,34,56924.99442,Bachelor,Divorced,66,Loyal,2,Electronics,1
+1167,Male,26,38116.86641,High School,Single,95,Returning,2,Home,6
+1168,Female,58,16455.06458,High School,Divorced,92,New,3,Electronics,7
+1169,Male,18,56161.43284,PhD,Married,71,New,2,Health,9
+1170,Male,19,47197.94913,Bachelor,Married,94,Loyal,1,Electronics,8
+1171,Female,46,55041.06752,PhD,Single,43,Returning,3,Electronics,8
+1172,Male,50,79357.618,PhD,Married,62,New,2,Electronics,7
+1173,Male,27,49597.52234,Master,Married,71,New,2,Home,2
+1174,Male,57,42292.42075,Master,Single,93,New,4,Clothing,1
+1175,Male,38,32790.17049,Bachelor,Married,24,Returning,0,Electronics,2
+1176,Male,45,45313.67313,Bachelor,Single,39,Returning,5,Electronics,6
+1177,Male,28,52408.66024,Master,Divorced,68,Loyal,1,Health,2
+1178,Female,51,50799.61131,Master,Divorced,93,New,1,Electronics,4
+1179,Male,25,75851.9801,Master,Divorced,44,New,2,Health,3
+1180,Male,39,57486.28348,Master,Single,5,Loyal,1,Electronics,6
+1181,Female,25,47977.98693,Master,Single,55,New,1,Home,8
+1182,Female,32,39401.59132,PhD,Married,93,Loyal,0,Clothing,6
+1183,Female,34,54000.09146,Bachelor,Married,30,Loyal,1,Clothing,2
+1184,Female,40,36394.87762,PhD,Married,29,New,1,Clothing,5
+1185,Female,41,52697.46619,PhD,Married,26,Returning,1,Home,6
+1186,Female,62,57311.2089,High School,Married,83,Returning,1,Health,9
+1187,Female,36,46753.21666,PhD,Single,26,Returning,0,Clothing,6
+1188,Male,22,40545.70334,Master,Single,37,Returning,3,Home,5
+1189,Male,49,17220.54729,Master,Divorced,91,New,1,Home,1
+1190,Female,61,67157.5509,High School,Divorced,94,Loyal,2,Electronics,5
+1191,Male,18,56049.50585,High School,Divorced,53,Loyal,1,Health,5
+1192,Male,40,56414.25922,High School,Divorced,30,New,1,Home,6
+1193,Male,54,26579.71496,High School,Single,3,Returning,1,Health,7
+1194,Female,25,70697.5805,High School,Single,43,Loyal,1,Clothing,4
+1195,Female,30,43021.747,PhD,Single,7,New,4,Clothing,7
+1196,Male,25,45668.07046,High School,Married,49,New,5,Clothing,5
+1197,Female,40,33960.69717,PhD,Married,73,Returning,1,Electronics,6
+1198,Male,60,23195.81403,Bachelor,Divorced,41,New,0,Electronics,4
+1199,Male,18,67360.19468,High School,Married,77,Loyal,3,Health,8
+1200,Male,62,69298.96054,High School,Single,79,Loyal,4,Health,9
+1201,Male,41,47517.07773,PhD,Divorced,54,New,4,Electronics,2
+1202,Female,52,39809.23145,Bachelor,Divorced,69,Loyal,4,Home,4
+1203,Female,41,44344.33746,PhD,Married,93,New,3,Health,8
+1204,Female,34,44755.77515,PhD,Divorced,99,Loyal,2,Health,8
+1205,Male,22,32002.10417,High School,Married,91,Returning,0,Clothing,9
+1206,Female,37,45616.17177,Master,Married,27,Loyal,3,Health,3
+1207,Male,38,52296.52989,Master,Divorced,8,Returning,3,Health,1
+1208,Female,57,65272.35871,PhD,Married,32,Returning,2,Home,9
+1209,Male,48,50213.66246,High School,Married,84,New,1,Health,1
+1210,Male,63,26354.72437,Bachelor,Married,64,Returning,2,Home,3
+1211,Male,53,55303.21795,Master,Married,10,Loyal,1,Clothing,3
+1212,Female,28,46161.04157,Bachelor,Divorced,13,Loyal,0,Electronics,9
+1213,Female,32,70556.14541,Master,Single,63,Returning,4,Clothing,1
+1214,Female,36,71441.86703,High School,Single,93,New,1,Home,7
+1215,Female,24,71966.81468,PhD,Married,35,Returning,4,Home,2
+1216,Male,45,41576.18097,Bachelor,Married,61,Loyal,2,Health,7
+1217,Female,60,79847.8261,Bachelor,Married,54,Loyal,1,Health,1
+1218,Female,22,55264.13757,PhD,Single,8,Returning,3,Electronics,8
+1219,Male,22,74395.70609,Bachelor,Married,29,Returning,2,Home,2
+1220,Male,47,42460.70579,Master,Divorced,95,Returning,1,Home,3
+1221,Male,49,45521.04894,PhD,Divorced,41,Loyal,0,Clothing,8
+1222,Female,25,54110.41029,Master,Divorced,30,Loyal,0,Electronics,3
+1223,Male,27,52278.16414,Master,Single,86,Loyal,4,Clothing,1
+1224,Male,55,68822.17915,High School,Married,21,New,4,Health,9
+1225,Male,64,46518.06022,Master,Married,76,Loyal,3,Health,8
+1226,Female,49,67469.22485,High School,Married,11,Loyal,1,Clothing,4
+1227,Male,45,60983.51761,Bachelor,Single,2,New,1,Health,8
+1228,Female,34,46799.11672,Bachelor,Single,50,New,4,Clothing,5
+1229,Female,48,59820.14926,High School,Single,41,New,1,Home,3
+1230,Male,25,42901.0243,Master,Single,66,New,3,Home,1
+1231,Male,57,85253.087,PhD,Divorced,98,New,1,Health,5
+1232,Female,42,10035.01518,PhD,Single,3,New,3,Electronics,6
+1233,Male,26,60094.14807,High School,Single,80,Returning,2,Home,4
+1234,Male,19,23531.06136,Bachelor,Single,51,Returning,2,Health,7
+1235,Female,32,46615.14945,Bachelor,Married,68,Returning,3,Electronics,3
+1236,Female,20,48715.87866,PhD,Married,87,Returning,3,Health,7
+1237,Male,53,72614.50338,High School,Married,84,Loyal,2,Clothing,1
+1238,Female,21,39617.71682,PhD,Divorced,25,New,1,Health,7
+1239,Male,31,69620.17873,Master,Divorced,30,Loyal,1,Clothing,1
+1240,Male,58,32317.7504,Master,Single,82,New,2,Home,1
+1241,Male,58,70200.04586,High School,Married,11,New,2,Home,2
+1242,Female,42,42884.81837,High School,Divorced,93,Loyal,3,Health,2
+1243,Male,27,51101.51779,Master,Married,17,Returning,0,Electronics,4
+1244,Male,38,44954.32005,Bachelor,Divorced,26,Loyal,4,Health,1
+1245,Male,53,69235.45211,High School,Divorced,23,Loyal,3,Health,4
+1246,Female,29,66316.09765,Master,Single,56,New,0,Home,2
+1247,Female,44,56652.52581,Master,Single,52,New,2,Home,4
+1248,Female,57,32721.97423,Bachelor,Divorced,48,New,0,Health,4
+1249,Female,19,39274.67198,Bachelor,Single,20,Returning,2,Home,9
+1250,Female,30,34571.35212,Bachelor,Divorced,2,Loyal,1,Clothing,9
+1251,Male,49,16277.8567,Bachelor,Divorced,88,Loyal,4,Health,1
+1252,Female,48,68919.77153,PhD,Married,31,Returning,1,Home,5
+1253,Female,33,45082.6471,Bachelor,Single,27,Loyal,0,Health,7
+1254,Female,49,44922.59054,PhD,Single,2,Loyal,2,Home,4
+1255,Male,49,72441.5335,High School,Single,78,New,2,Clothing,5
+1256,Female,51,42860.17096,Master,Married,4,Returning,1,Clothing,2
+1257,Female,28,37392.93596,PhD,Married,13,New,2,Health,3
+1258,Male,27,46628.81569,High School,Married,35,Returning,3,Clothing,7
+1259,Female,32,33009.96422,High School,Single,72,New,2,Clothing,7
+1260,Male,34,55165.33654,PhD,Single,66,Loyal,1,Home,4
+1261,Male,57,44395.06883,High School,Single,6,Returning,0,Health,1
+1262,Male,35,42390.92884,High School,Married,31,Returning,2,Home,1
+1263,Male,26,41091.45242,PhD,Married,10,New,2,Home,4
+1264,Male,42,48406.67759,High School,Divorced,21,Returning,1,Electronics,4
+1265,Female,57,51252.21688,Bachelor,Married,74,Loyal,3,Clothing,6
+1266,Male,31,42200.37367,Bachelor,Divorced,23,Loyal,1,Home,7
+1267,Male,42,44618.51096,Master,Single,3,Loyal,4,Home,9
+1268,Female,39,48777.1576,High School,Married,32,New,3,Home,9
+1269,Male,47,47263.72797,Master,Single,20,Returning,4,Clothing,5
+1270,Female,37,50466.1395,Bachelor,Single,74,New,3,Clothing,3
+1271,Female,38,39849.93795,Bachelor,Single,29,Loyal,0,Clothing,3
+1272,Female,61,65068.89364,Bachelor,Single,52,Returning,3,Health,6
+1273,Male,49,51452.42266,High School,Married,46,Loyal,1,Home,1
+1274,Male,63,42442.29871,High School,Single,34,Returning,0,Clothing,7
+1275,Male,38,55165.76326,Bachelor,Divorced,84,Returning,2,Home,3
+1276,Female,52,48884.47102,Master,Married,61,New,3,Health,5
+1277,Male,49,23992.60468,Master,Single,72,Returning,3,Electronics,7
+1278,Male,47,55114.29035,PhD,Married,71,Loyal,0,Health,7
+1279,Male,56,34707.40696,Bachelor,Divorced,70,Returning,0,Clothing,9
+1280,Female,29,64016.41675,Master,Single,11,Loyal,3,Clothing,1
+1281,Female,58,46373.75542,Bachelor,Divorced,82,New,2,Health,3
+1282,Male,64,61701.05446,Master,Single,93,Loyal,5,Home,9
+1283,Male,35,40546.7217,PhD,Divorced,89,Returning,3,Clothing,8
+1284,Male,38,51048.93901,PhD,Single,63,Loyal,1,Clothing,2
+1285,Male,30,68153.65251,Bachelor,Married,21,Loyal,1,Health,8
+1286,Female,38,45964.7518,Master,Single,3,Returning,1,Home,8
+1287,Female,25,41137.74352,High School,Married,82,Loyal,2,Health,2
+1288,Female,63,59825.60921,PhD,Single,88,Returning,0,Health,8
+1289,Female,57,59534.92395,Bachelor,Single,10,New,4,Home,3
+1290,Male,63,41768.763,Bachelor,Divorced,27,Loyal,0,Home,7
+1291,Male,24,20218.08469,Master,Divorced,12,New,2,Electronics,9
+1292,Male,40,40849.65534,Bachelor,Divorced,7,Loyal,2,Health,4
+1293,Female,61,60160.39283,PhD,Single,17,Loyal,1,Home,6
+1294,Male,49,38374.48716,Bachelor,Single,65,New,1,Clothing,9
+1295,Female,28,49835.93244,Bachelor,Single,64,Loyal,3,Electronics,5
+1296,Female,39,40137.72593,High School,Married,26,Loyal,2,Health,1
+1297,Male,39,21017.49256,High School,Married,15,New,5,Home,3
+1298,Male,60,39867.78234,PhD,Single,33,Loyal,1,Electronics,9
+1299,Male,42,60096.98031,Master,Divorced,62,Returning,4,Electronics,3
+1300,Female,39,14446.2128,High School,Divorced,47,Loyal,2,Clothing,2
+1301,Male,45,53782.51026,Master,Divorced,95,Loyal,2,Electronics,4
+1302,Female,46,32208.96153,PhD,Single,35,Loyal,2,Health,5
+1303,Male,30,59126.63104,High School,Divorced,65,New,4,Home,7
+1304,Female,35,60714.78404,Master,Single,72,Returning,0,Electronics,7
+1305,Female,19,47420.78098,High School,Married,76,Returning,1,Electronics,9
+1306,Male,46,47454.97762,PhD,Divorced,83,Loyal,1,Health,8
+1307,Female,38,37904.55954,PhD,Married,25,New,3,Clothing,2
+1308,Female,32,29816.249,High School,Divorced,57,New,1,Clothing,8
+1309,Male,44,75471.3936,Master,Single,32,Returning,1,Home,8
+1310,Female,48,37023.92859,Bachelor,Single,63,New,3,Health,5
+1311,Male,32,73516.94197,Bachelor,Single,12,Loyal,2,Clothing,3
+1312,Female,40,37107.4994,High School,Single,63,Loyal,6,Home,9
+1313,Male,41,57877.85586,Master,Divorced,77,New,4,Home,7
+1314,Male,61,32932.89261,Bachelor,Married,92,Loyal,1,Clothing,1
+1315,Female,30,57850.92525,PhD,Single,1,Returning,1,Health,8
+1316,Female,39,45116.18964,Master,Divorced,51,Loyal,1,Electronics,5
+1317,Female,60,45312.25759,Bachelor,Married,70,New,2,Clothing,6
+1318,Female,54,59150.34755,Master,Single,8,Returning,2,Electronics,9
+1319,Female,50,42962.87952,High School,Married,68,Loyal,7,Electronics,8
+1320,Male,20,28577.77257,Master,Single,5,Returning,3,Health,3
+1321,Female,36,61419.58345,Bachelor,Married,89,New,1,Health,5
+1322,Male,40,32811.49115,High School,Married,86,Loyal,1,Home,4
+1323,Male,46,57747.75927,Master,Single,92,Loyal,1,Health,1
+1324,Female,47,64594.94818,PhD,Divorced,39,Returning,1,Home,5
+1325,Male,56,44367.5917,Bachelor,Married,23,Loyal,2,Clothing,7
+1326,Male,61,67735.29266,High School,Single,68,Loyal,2,Electronics,1
+1327,Male,64,57226.75562,Master,Married,52,Loyal,1,Health,4
+1328,Male,42,39562.0787,PhD,Married,4,Loyal,3,Clothing,6
+1329,Female,54,71021.43503,Bachelor,Divorced,47,New,1,Home,9
+1330,Male,64,32874.92267,PhD,Married,21,Loyal,0,Health,8
+1331,Female,25,44349.49355,Master,Married,56,Returning,2,Electronics,2
+1332,Female,59,46905.27795,Master,Single,66,New,5,Clothing,3
+1333,Male,33,59078.35552,High School,Single,59,Returning,2,Health,5
+1334,Female,25,66731.49946,PhD,Divorced,7,Returning,2,Health,7
+1335,Female,18,65791.87335,High School,Married,49,Returning,1,Clothing,3
+1336,Female,61,53356.22479,Bachelor,Married,16,New,3,Home,7
+1337,Male,22,45795.96343,High School,Married,17,New,1,Home,5
+1338,Female,20,22610.23638,Bachelor,Divorced,84,New,1,Health,6
+1339,Female,18,30287.81218,Master,Married,87,Loyal,2,Home,6
+1340,Female,21,76499.83234,Master,Single,98,Returning,3,Home,4
+1341,Male,57,22458.92019,PhD,Divorced,75,New,1,Clothing,8
+1342,Female,52,38232.64035,Bachelor,Single,34,Returning,4,Home,9
+1343,Male,49,67169.09423,Master,Single,33,New,3,Home,2
+1344,Male,59,53145.69949,PhD,Divorced,26,New,3,Clothing,9
+1345,Male,51,63920.67607,PhD,Single,66,New,2,Health,4
+1346,Male,60,58142.42527,High School,Married,63,Returning,4,Health,6
+1347,Male,42,72043.73806,PhD,Divorced,87,Loyal,3,Clothing,7
+1348,Male,27,54431.4093,Master,Single,41,New,2,Electronics,4
+1349,Female,38,59951.71594,High School,Married,86,New,3,Clothing,8
+1350,Male,63,39136.30202,Bachelor,Married,58,New,2,Electronics,8
+1351,Female,56,58794.99463,Bachelor,Single,98,Loyal,1,Home,1
+1352,Female,44,44058.10853,Master,Married,79,Returning,2,Health,8
+1353,Male,44,43203.41198,Master,Divorced,10,Returning,4,Electronics,3
+1354,Female,19,63420.85272,High School,Single,15,Returning,3,Electronics,5
+1355,Female,58,63524.35064,High School,Married,42,Returning,5,Home,8
+1356,Female,30,75326.63234,Master,Married,93,New,2,Health,6
+1357,Female,26,74348.94778,Master,Single,57,Loyal,0,Home,4
+1358,Male,53,63759.72742,Bachelor,Single,87,New,1,Health,4
+1359,Female,39,24193.31585,Bachelor,Single,17,Loyal,1,Health,4
+1360,Male,59,77415.21474,Bachelor,Single,60,Returning,0,Home,6
+1361,Female,43,63769.51506,Master,Divorced,9,Loyal,0,Electronics,7
+1362,Female,29,38512.09865,PhD,Single,36,New,4,Clothing,5
+1363,Male,34,60933.63733,Master,Divorced,73,New,2,Health,8
+1364,Female,31,34441.01389,Master,Divorced,80,Returning,4,Health,7
+1365,Female,31,59279.4518,Bachelor,Single,36,New,1,Clothing,8
+1366,Female,51,30255.94938,Master,Divorced,48,New,1,Clothing,4
+1367,Male,37,37876.72387,High School,Single,51,Loyal,1,Home,8
+1368,Female,28,60648.93694,Master,Single,97,New,6,Health,6
+1369,Male,33,66093.30114,Master,Married,95,Returning,2,Home,3
+1370,Female,48,54881.55289,Master,Single,70,Returning,2,Clothing,8
+1371,Male,23,45707.47045,Master,Married,74,New,3,Home,7
+1372,Male,36,18277.00557,PhD,Divorced,80,Returning,6,Health,5
+1373,Female,54,46864.68351,Master,Married,68,Loyal,4,Electronics,4
+1374,Female,21,58002.27615,High School,Divorced,22,Loyal,2,Electronics,1
+1375,Male,64,45248.52341,High School,Single,77,New,1,Health,3
+1376,Male,21,49661.33088,Master,Divorced,80,New,2,Home,2
+1377,Female,37,47215.73798,Bachelor,Divorced,93,Loyal,2,Clothing,8
+1378,Male,27,45174.40673,PhD,Single,6,Returning,1,Clothing,8
+1379,Female,41,51138.16085,Master,Divorced,26,New,0,Electronics,5
+1380,Female,52,45909.58127,Master,Single,75,New,0,Home,5
+1381,Female,43,71649.3433,Master,Married,88,Returning,1,Clothing,4
+1382,Female,54,16903.71727,Bachelor,Single,93,New,2,Clothing,1
+1383,Male,55,41812.36121,Bachelor,Single,3,Returning,4,Health,1
+1384,Female,38,36946.15665,Bachelor,Divorced,52,Returning,0,Home,6
+1385,Male,57,53286.659,PhD,Married,74,Returning,4,Home,4
+1386,Female,56,51157.17179,High School,Single,60,Returning,5,Clothing,4
+1387,Male,38,74332.89652,PhD,Married,63,Returning,2,Home,3
+1388,Female,27,79267.13072,Bachelor,Married,65,Loyal,1,Home,9
+1389,Male,55,38403.74817,High School,Divorced,52,Returning,2,Home,3
+1390,Male,63,50007.50098,High School,Single,90,Loyal,1,Health,8
+1391,Female,21,52944.56625,Bachelor,Divorced,76,Returning,1,Clothing,2
+1392,Female,62,38032.79377,Bachelor,Single,14,New,2,Electronics,4
+1393,Female,37,59425.73054,PhD,Married,89,Loyal,0,Home,1
+1394,Female,34,46407.38947,Bachelor,Single,72,New,0,Clothing,5
+1395,Male,24,33985.47724,High School,Single,68,Returning,3,Electronics,2
+1396,Female,21,45806.47544,Master,Married,28,Returning,2,Health,1
+1397,Male,46,35034.88141,Bachelor,Married,71,New,2,Clothing,1
+1398,Male,31,65549.70244,Bachelor,Single,10,Returning,0,Health,2
+1399,Female,20,78523.38883,PhD,Divorced,57,New,1,Clothing,5
+1400,Male,41,53672.29061,PhD,Single,66,Returning,0,Health,9
+1401,Male,54,51669.15152,Bachelor,Married,90,Returning,1,Clothing,6
+1402,Male,33,52286.5215,High School,Divorced,50,Loyal,0,Health,4
+1403,Male,21,67733.51043,High School,Married,14,New,2,Electronics,3
+1404,Female,41,67410.48505,Master,Married,16,Returning,3,Clothing,8
+1405,Female,51,48265.19647,Bachelor,Divorced,54,New,2,Electronics,3
+1406,Female,47,53788.84891,PhD,Married,43,Loyal,5,Home,1
+1407,Female,35,59789.69611,High School,Married,42,New,4,Electronics,4
+1408,Male,36,32934.68815,Master,Married,81,Loyal,2,Clothing,5
+1409,Male,48,68189.12356,Bachelor,Married,22,New,1,Electronics,5
+1410,Female,36,76022.47837,High School,Married,68,New,2,Clothing,5
+1411,Female,63,67475.48157,Bachelor,Married,19,Loyal,1,Health,8
+1412,Female,36,31316.09133,Bachelor,Married,66,Returning,2,Home,8
+1413,Male,39,20449.99317,High School,Married,39,Returning,3,Electronics,4
+1414,Female,41,60630.7801,High School,Married,73,Returning,2,Home,9
+1415,Female,62,38597.15827,High School,Single,19,New,0,Electronics,1
+1416,Female,29,54307.00031,Bachelor,Single,16,New,3,Clothing,5
+1417,Male,47,73027.2308,Bachelor,Married,54,Returning,7,Electronics,5
+1418,Male,55,40145.67235,Master,Single,25,New,2,Home,5
+1419,Male,48,44336.68015,PhD,Divorced,18,New,2,Electronics,8
+1420,Male,53,54150.84459,Bachelor,Single,23,Returning,2,Home,9
+1421,Male,36,30537.3554,PhD,Married,85,Loyal,2,Home,3
+1422,Male,62,38632.15706,High School,Married,11,New,2,Clothing,9
+1423,Male,53,50372.86256,Bachelor,Single,39,New,1,Health,8
+1424,Male,47,45493.17697,Master,Married,68,New,1,Health,3
+1425,Female,50,59126.11631,Master,Divorced,25,New,3,Electronics,2
+1426,Female,35,91489.69422,PhD,Divorced,63,Loyal,3,Home,4
+1427,Male,45,51487.07509,High School,Married,96,Returning,2,Clothing,2
+1428,Male,64,37374.32081,PhD,Divorced,30,New,2,Health,4
+1429,Female,28,71273.60532,High School,Divorced,45,Returning,2,Clothing,5
+1430,Male,62,26167.72287,Master,Single,90,New,0,Clothing,2
+1431,Male,50,29166.37743,PhD,Divorced,61,Loyal,3,Home,8
+1432,Male,34,41073.44842,Master,Single,51,Returning,2,Electronics,1
+1433,Female,23,45756.69919,Master,Married,98,Loyal,2,Home,3
+1434,Female,21,40713.90895,High School,Single,9,New,1,Health,7
+1435,Female,37,49527.31513,PhD,Married,76,Loyal,3,Health,1
+1436,Female,64,54121.12854,PhD,Married,2,Loyal,5,Clothing,2
+1437,Female,44,66034.39303,Master,Married,5,New,0,Home,3
+1438,Male,32,51367.82411,Master,Married,62,New,0,Home,2
+1439,Female,23,41570.80628,High School,Married,69,Returning,1,Clothing,2
+1440,Male,64,65219.6808,Bachelor,Single,52,New,2,Electronics,6
+1441,Male,31,37734.26786,Bachelor,Married,86,Returning,2,Clothing,7
+1442,Female,28,25510.95881,Master,Divorced,5,Loyal,1,Clothing,6
+1443,Female,56,68089.34027,Bachelor,Divorced,59,Loyal,5,Health,6
+1444,Male,26,67127.79867,Bachelor,Married,68,Returning,0,Home,9
+1445,Male,43,38115.52412,Bachelor,Divorced,9,New,1,Health,8
+1446,Male,33,44013.51719,Bachelor,Single,93,New,2,Clothing,8
+1447,Female,22,36246.08682,Master,Single,22,Loyal,2,Home,6
+1448,Female,27,54899.36326,Bachelor,Married,27,Returning,3,Clothing,5
+1449,Female,20,75980.73937,Bachelor,Married,10,Loyal,0,Clothing,9
+1450,Female,30,60543.22698,High School,Married,80,Loyal,2,Electronics,2
+1451,Female,60,65535.86964,Master,Divorced,61,New,0,Health,7
+1452,Male,47,62295.92498,PhD,Divorced,51,Returning,1,Health,6
+1453,Female,62,49998.21277,PhD,Single,10,Loyal,4,Clothing,7
+1454,Male,23,66250.10657,High School,Divorced,6,New,6,Electronics,4
+1455,Male,34,61175.45844,High School,Single,62,Loyal,0,Clothing,9
+1456,Male,62,71591.68573,Master,Divorced,5,Loyal,3,Clothing,7
+1457,Female,36,43106.76588,PhD,Single,70,New,0,Clothing,2
+1458,Female,59,23928.32541,Bachelor,Married,63,New,0,Electronics,4
+1459,Female,52,65678.76522,High School,Divorced,56,Returning,1,Home,5
+1460,Male,63,55246.54281,PhD,Single,59,Loyal,4,Electronics,2
+1461,Male,43,45559.3085,Master,Divorced,63,Returning,3,Clothing,8
+1462,Male,22,46397.70782,Bachelor,Married,89,New,0,Home,1
+1463,Male,46,88320.29489,Master,Single,59,New,0,Clothing,3
+1464,Male,54,40367.08021,High School,Divorced,51,Loyal,0,Electronics,1
+1465,Male,37,37200.4504,PhD,Divorced,50,Returning,2,Electronics,5
+1466,Female,38,51279.2635,PhD,Married,4,Returning,4,Home,8
+1467,Female,27,67707.36317,PhD,Married,48,Loyal,2,Electronics,7
+1468,Female,22,84176.0298,PhD,Single,32,Loyal,3,Clothing,9
+1469,Female,53,59860.47445,Bachelor,Divorced,51,Returning,0,Home,2
+1470,Male,23,30943.86884,Bachelor,Divorced,52,New,3,Health,8
+1471,Male,43,79562.96406,Master,Married,99,New,5,Clothing,8
+1472,Female,21,49707.96951,Bachelor,Married,74,Loyal,2,Health,6
+1473,Male,56,37434.35852,High School,Single,34,Returning,4,Home,3
+1474,Female,56,33809.11314,High School,Divorced,36,Returning,2,Home,2
+1475,Female,52,62544.93079,PhD,Divorced,70,Returning,3,Clothing,8
+1476,Female,18,53582.44079,High School,Single,43,New,1,Electronics,6
+1477,Male,41,55176.13065,Master,Single,16,New,1,Clothing,4
+1478,Female,53,69297.54679,Bachelor,Married,59,Returning,1,Electronics,5
+1479,Female,23,37967.68113,Bachelor,Married,53,Returning,5,Electronics,5
+1480,Female,58,70492.31942,Bachelor,Single,19,Loyal,2,Clothing,9
+1481,Male,63,42212.64016,High School,Single,98,Loyal,3,Home,9
+1482,Male,61,82460.11061,Bachelor,Divorced,89,Returning,0,Clothing,8
+1483,Female,48,58981.08524,PhD,Single,95,Returning,1,Health,8
+1484,Male,37,36196.42205,PhD,Single,41,New,3,Home,2
+1485,Male,41,19618.72875,PhD,Divorced,81,Returning,2,Electronics,3
+1486,Male,42,62133.87083,High School,Single,47,Loyal,1,Home,8
+1487,Male,53,44387.29586,Bachelor,Married,94,New,1,Clothing,5
+1488,Male,38,47666.51458,High School,Married,54,Loyal,1,Home,7
+1489,Male,47,61492.94014,Bachelor,Divorced,55,Loyal,1,Electronics,8
+1490,Male,41,65156.20739,Master,Single,95,New,1,Electronics,6
+1491,Male,61,68355.65511,Master,Married,19,Loyal,2,Home,5
+1492,Male,59,32377.38037,High School,Married,62,Returning,2,Health,8
+1493,Male,47,71388.42124,PhD,Married,99,Loyal,0,Electronics,1
+1494,Female,39,41314.31996,High School,Married,93,New,1,Health,1
+1495,Female,45,16156.25098,PhD,Single,59,New,1,Electronics,1
+1496,Male,24,32323.3948,Bachelor,Single,65,New,4,Home,3
+1497,Female,52,53270.37638,PhD,Single,68,Loyal,1,Electronics,6
+1498,Female,45,35317.78631,PhD,Single,28,Returning,1,Health,6
+1499,Male,31,48679.33296,Bachelor,Married,18,New,0,Health,5
+1500,Male,27,55073.78731,Master,Divorced,26,Returning,0,Home,7
+1501,Male,33,47279.21895,Bachelor,Divorced,19,New,1,Health,5
+1502,Female,33,42584.68493,High School,Married,55,Returning,4,Health,2
+1503,Female,48,31239.55906,High School,Married,57,Returning,1,Home,4
+1504,Male,59,50329.15712,High School,Divorced,6,Returning,1,Electronics,1
+1505,Male,42,19025.63919,High School,Divorced,1,New,1,Home,7
+1506,Male,30,39710.02937,High School,Married,8,Loyal,1,Electronics,4
+1507,Female,23,36083.23836,Master,Married,97,Loyal,1,Electronics,4
+1508,Female,61,46409.34723,Master,Single,51,Loyal,0,Electronics,4
+1509,Female,26,46800.05301,PhD,Single,85,Returning,1,Clothing,3
+1510,Female,62,64399.35012,High School,Divorced,88,New,1,Electronics,8
+1511,Male,53,73752.15916,Bachelor,Married,25,Returning,3,Home,4
+1512,Male,60,33233.3174,High School,Divorced,47,New,5,Home,8
+1513,Male,37,79892.48938,Master,Single,55,Returning,7,Home,9
+1514,Male,35,38310.56601,High School,Single,64,New,5,Clothing,1
+1515,Female,60,52587.90174,Master,Divorced,83,New,0,Health,4
+1516,Female,38,57662.94484,PhD,Single,93,New,3,Clothing,6
+1517,Male,21,86668.74129,PhD,Married,10,Returning,4,Home,8
+1518,Male,50,41865.76493,PhD,Divorced,56,Loyal,1,Home,6
+1519,Female,44,23048.92981,Master,Married,12,Returning,1,Health,6
+1520,Male,24,72355.69205,High School,Married,33,Returning,4,Clothing,4
+1521,Female,23,37499.39662,High School,Single,71,New,1,Home,9
+1522,Male,32,44576.17129,Bachelor,Married,17,New,0,Electronics,7
+1523,Male,35,33233.75519,Master,Divorced,61,Loyal,1,Electronics,6
+1524,Male,49,44619.4434,Bachelor,Married,10,Loyal,2,Home,1
+1525,Male,28,37394.12696,PhD,Married,31,New,0,Electronics,2
+1526,Male,37,60146.62725,High School,Married,60,Loyal,3,Health,6
+1527,Male,41,51211.87445,Master,Married,70,Loyal,2,Home,1
+1528,Male,32,39784.17259,Bachelor,Married,17,New,5,Clothing,5
+1529,Female,24,64938.07965,Bachelor,Single,50,Returning,3,Home,1
+1530,Female,38,53824.95126,Bachelor,Divorced,37,Loyal,3,Health,3
+1531,Female,59,22309.27624,High School,Single,82,New,1,Clothing,7
+1532,Female,43,63795.54971,High School,Divorced,62,Loyal,2,Health,5
+1533,Female,61,52773.01826,High School,Divorced,90,Loyal,4,Electronics,1
+1534,Male,31,70860.98731,Master,Divorced,80,New,2,Electronics,1
+1535,Male,54,51858.7614,High School,Divorced,72,Loyal,1,Electronics,8
+1536,Female,38,38124.35974,Master,Divorced,88,Loyal,2,Health,9
+1537,Male,35,46935.57,Bachelor,Married,77,Loyal,5,Health,7
+1538,Female,22,62058.78996,Bachelor,Single,29,Returning,3,Home,3
+1539,Female,20,38438.9441,PhD,Single,32,Returning,1,Clothing,6
+1540,Male,40,43395.54819,High School,Married,88,Loyal,4,Clothing,3
+1541,Male,43,46674.6713,Bachelor,Divorced,80,New,0,Health,4
+1542,Male,54,32759.42585,High School,Single,11,Loyal,2,Health,4
+1543,Female,41,38655.14863,Master,Married,96,Loyal,2,Electronics,3
+1544,Male,36,52588.25288,Bachelor,Married,6,Returning,2,Health,6
+1545,Female,42,68037.16621,High School,Single,35,Returning,5,Electronics,5
+1546,Female,38,54757.20477,Bachelor,Single,33,Returning,1,Health,9
+1547,Female,29,49312.08111,Bachelor,Divorced,18,Loyal,1,Clothing,9
+1548,Male,58,37530.93839,High School,Divorced,37,Loyal,1,Home,3
+1549,Male,50,66427.40618,Bachelor,Single,13,New,1,Health,9
+1550,Female,21,56502.5825,Bachelor,Divorced,74,Loyal,2,Electronics,3
+1551,Male,59,39399.05355,Bachelor,Married,90,Loyal,3,Home,4
+1552,Male,24,63479.72688,Bachelor,Divorced,81,Returning,3,Electronics,1
+1553,Male,39,58393.65592,Master,Divorced,64,Returning,2,Electronics,5
+1554,Female,50,37797.04476,Bachelor,Married,1,Returning,1,Home,9
+1555,Female,34,48479.32616,PhD,Divorced,63,Returning,1,Home,2
+1556,Male,41,42608.40908,Bachelor,Married,89,Returning,4,Home,4
+1557,Female,51,89503.0691,High School,Divorced,34,New,2,Health,2
+1558,Male,45,57976.17325,PhD,Single,10,New,1,Home,8
+1559,Male,60,52801.43082,Master,Divorced,84,New,1,Health,9
+1560,Male,58,57089.94584,PhD,Single,7,Returning,5,Clothing,3
+1561,Male,56,70687.43882,PhD,Single,56,Returning,1,Clothing,9
+1562,Female,39,48749.29783,PhD,Single,80,Returning,2,Electronics,6
+1563,Female,34,41151.36053,High School,Single,37,New,4,Electronics,6
+1564,Female,51,62664.24842,High School,Single,29,Returning,2,Health,7
+1565,Male,23,47375.83151,High School,Married,12,New,2,Electronics,5
+1566,Male,63,33951.57006,Master,Married,17,Returning,1,Clothing,6
+1567,Male,23,31029.70352,High School,Married,48,Loyal,1,Health,1
+1568,Female,51,72939.44826,High School,Single,84,New,1,Health,3
+1569,Male,18,51974.6685,PhD,Divorced,26,Loyal,2,Home,9
+1570,Female,27,41156.48924,High School,Married,83,New,2,Health,5
+1571,Female,38,46484.97633,Bachelor,Divorced,12,Returning,0,Electronics,5
+1572,Female,22,62111.67077,High School,Divorced,21,Returning,3,Clothing,8
+1573,Female,19,45598.91726,Master,Single,42,Loyal,3,Electronics,2
+1574,Female,39,28258.70406,Master,Single,61,Returning,1,Clothing,7
+1575,Female,19,54887.61278,Bachelor,Single,58,New,3,Home,9
+1576,Male,27,68125.21726,Master,Married,54,Returning,4,Clothing,7
+1577,Male,51,67121.96477,Master,Single,34,Returning,4,Home,5
+1578,Female,33,41610.05093,PhD,Married,7,New,2,Electronics,6
+1579,Female,56,69037.58985,Bachelor,Married,35,Loyal,1,Home,4
+1580,Male,39,53194.24961,PhD,Married,15,Loyal,0,Health,7
+1581,Female,29,68617.21016,PhD,Married,65,Returning,3,Health,1
+1582,Female,41,58605.30545,High School,Single,90,New,2,Clothing,4
+1583,Male,64,27176.04736,Bachelor,Married,99,Loyal,0,Electronics,3
+1584,Female,57,76201.08406,High School,Single,25,Loyal,5,Electronics,4
+1585,Female,55,50776.75777,High School,Single,59,Returning,4,Clothing,1
+1586,Female,27,58651.90736,PhD,Married,79,New,1,Health,2
+1587,Male,52,29839.33057,Master,Single,86,Loyal,4,Home,9
+1588,Male,49,57579.8975,Bachelor,Divorced,6,Returning,3,Clothing,7
+1589,Male,24,66543.91599,Master,Single,52,Returning,4,Home,6
+1590,Female,38,79029.80505,PhD,Single,79,Returning,3,Home,2
+1591,Female,37,71005.99692,PhD,Married,88,Returning,1,Electronics,1
+1592,Male,43,58313.37056,PhD,Married,21,Loyal,3,Health,2
+1593,Female,21,26834.3397,PhD,Single,71,New,2,Home,7
+1594,Female,63,51984.09186,PhD,Married,93,Returning,2,Health,2
+1595,Female,39,41112.35652,PhD,Divorced,96,Returning,2,Electronics,3
+1596,Female,32,53524.66812,Master,Divorced,32,Loyal,1,Clothing,8
+1597,Female,57,31755.11251,High School,Married,53,Returning,5,Clothing,7
+1598,Male,38,46847.49638,Master,Single,59,Returning,4,Electronics,9
+1599,Female,32,42242.25374,Bachelor,Divorced,69,New,1,Electronics,4
+1600,Male,39,41777.50466,Master,Divorced,62,Returning,3,Home,7
+1601,Female,45,41926.45721,PhD,Single,4,Loyal,3,Electronics,1
+1602,Male,31,47962.17925,Master,Married,86,New,4,Clothing,2
+1603,Female,44,54292.92139,High School,Divorced,18,Loyal,1,Health,7
+1604,Male,58,12522.59618,Bachelor,Single,99,New,1,Health,2
+1605,Female,57,14353.50715,Master,Single,81,New,2,Health,6
+1606,Male,45,44919.6299,High School,Divorced,56,Returning,1,Health,9
+1607,Female,43,47033.46433,Master,Married,24,Returning,1,Electronics,5
+1608,Male,19,52836.66825,Bachelor,Divorced,66,Returning,0,Electronics,7
+1609,Female,42,39084.91468,Master,Single,13,Loyal,2,Health,1
+1610,Male,20,50141.97791,PhD,Divorced,62,Returning,2,Electronics,8
+1611,Male,25,51897.84808,Master,Married,54,Returning,1,Home,9
+1612,Female,61,38981.62855,High School,Single,15,New,1,Electronics,5
+1613,Female,50,65201.83733,Master,Married,69,Returning,3,Home,6
+1614,Male,59,52654.79467,High School,Divorced,3,Returning,2,Home,8
+1615,Female,52,58204.41643,Bachelor,Divorced,37,Returning,1,Electronics,4
+1616,Male,23,51032.68597,Master,Married,37,Returning,1,Health,2
+1617,Male,56,81555.09655,Bachelor,Divorced,3,New,1,Home,8
+1618,Male,40,58945.95604,Bachelor,Married,63,Returning,2,Electronics,2
+1619,Female,42,42680.10026,Master,Divorced,35,New,4,Clothing,5
+1620,Male,60,62314.50327,High School,Married,52,Loyal,1,Health,6
+1621,Male,36,25435.92624,Bachelor,Married,87,Returning,0,Clothing,5
+1622,Female,22,51794.00394,Bachelor,Single,28,Returning,1,Home,6
+1623,Female,28,54787.40435,Master,Single,94,Returning,2,Clothing,6
+1624,Female,29,51965.31143,Master,Married,18,New,0,Electronics,3
+1625,Female,27,44993.31694,Master,Divorced,36,Returning,3,Health,3
+1626,Male,25,34815.89965,Master,Divorced,33,Returning,1,Home,9
+1627,Male,41,38159.79482,Master,Divorced,64,Loyal,1,Electronics,3
+1628,Male,45,51531.12374,PhD,Married,26,New,7,Health,3
+1629,Male,58,33297.21151,Master,Married,48,New,1,Home,2
+1630,Female,53,76552.51423,High School,Married,40,Loyal,1,Home,7
+1631,Male,54,10386.53481,Bachelor,Married,17,New,0,Home,4
+1632,Male,38,45148.43199,High School,Single,40,Returning,5,Home,1
+1633,Female,25,51655.84459,High School,Married,7,Returning,1,Clothing,6
+1634,Male,26,57611.31392,PhD,Divorced,57,Loyal,2,Clothing,5
+1635,Male,64,36261.12909,Master,Single,8,New,0,Clothing,2
+1636,Male,32,67014.42191,Bachelor,Divorced,56,New,2,Home,6
+1637,Male,63,29092.53434,High School,Married,31,New,2,Clothing,1
+1638,Male,57,41508.07117,Master,Single,59,Loyal,4,Health,3
+1639,Male,35,59311.21333,Master,Married,58,Returning,2,Home,4
+1640,Female,59,65602.82847,PhD,Single,12,Loyal,2,Health,3
+1641,Female,37,28939.98055,PhD,Divorced,48,Returning,2,Health,6
+1642,Male,23,89675.55186,PhD,Married,31,Loyal,0,Clothing,4
+1643,Male,29,36537.62655,Bachelor,Married,83,Returning,5,Home,1
+1644,Female,19,30317.26284,High School,Single,63,New,1,Clothing,5
+1645,Male,24,57540.72338,PhD,Single,74,New,6,Clothing,5
+1646,Male,33,44775.5982,PhD,Married,39,New,3,Clothing,9
+1647,Male,20,42559.21531,PhD,Single,76,Loyal,3,Home,8
+1648,Female,62,58934.66086,High School,Married,20,Loyal,2,Home,8
+1649,Male,20,27090.56464,High School,Single,48,Loyal,1,Clothing,5
+1650,Female,44,24467.984,PhD,Divorced,71,New,5,Health,8
+1651,Male,60,41038.64952,PhD,Single,54,Returning,0,Health,7
+1652,Female,57,66168.52609,Master,Divorced,78,New,2,Home,1
+1653,Female,55,41689.1706,PhD,Single,75,New,3,Electronics,7
+1654,Male,50,73987.35027,Bachelor,Single,71,Returning,1,Clothing,8
+1655,Female,45,68015.22142,Bachelor,Married,29,Returning,2,Clothing,3
+1656,Male,18,54244.19277,PhD,Single,74,Returning,1,Electronics,9
+1657,Female,25,55095.85789,High School,Single,93,Returning,2,Home,8
+1658,Male,54,54230.03938,Master,Divorced,73,New,1,Health,2
+1659,Male,49,52395.76593,High School,Single,48,Loyal,1,Home,6
+1660,Female,60,44506.37454,PhD,Married,74,New,4,Health,4
+1661,Male,54,46247.1825,Bachelor,Divorced,83,Returning,3,Health,3
+1662,Male,21,33950.59765,Master,Married,56,Loyal,3,Home,6
+1663,Female,47,16849.35816,High School,Married,95,Loyal,1,Clothing,9
+1664,Male,23,66561.05914,High School,Married,17,New,1,Clothing,2
+1665,Male,63,52358.87655,PhD,Married,9,New,3,Clothing,5
+1666,Female,36,50093.17033,Master,Divorced,97,New,5,Health,6
+1667,Female,49,55976.73684,Bachelor,Single,34,Loyal,1,Clothing,4
+1668,Male,26,37574.03818,PhD,Married,45,Loyal,5,Health,7
+1669,Male,29,34984.0668,Master,Divorced,88,Loyal,1,Clothing,2
+1670,Female,28,45744.72959,High School,Married,9,Returning,2,Home,7
+1671,Female,63,70521.47723,PhD,Single,7,Returning,2,Electronics,2
+1672,Male,33,32468.88457,High School,Divorced,16,New,1,Health,1
+1673,Female,18,10594.01965,High School,Divorced,19,Loyal,2,Home,5
+1674,Male,62,42178.98362,PhD,Single,6,New,2,Health,2
+1675,Male,38,67140.49874,PhD,Divorced,11,Loyal,2,Health,8
+1676,Male,47,24011.83963,PhD,Single,76,New,2,Home,8
+1677,Male,30,32295.74594,PhD,Divorced,61,Returning,3,Clothing,1
+1678,Male,51,53953.20111,PhD,Divorced,42,Loyal,0,Health,4
+1679,Female,21,88548.60553,High School,Single,13,Returning,4,Electronics,9
+1680,Female,45,29626.82497,Bachelor,Single,12,Loyal,1,Electronics,5
+1681,Female,55,29045.98863,Bachelor,Divorced,85,New,0,Home,6
+1682,Female,48,55080.47553,PhD,Divorced,74,Loyal,1,Electronics,3
+1683,Male,44,68070.1166,High School,Single,20,Returning,0,Home,5
+1684,Male,22,40638.51932,Bachelor,Single,50,Loyal,1,Home,1
+1685,Male,42,25679.08766,Bachelor,Divorced,36,New,1,Health,8
+1686,Male,20,56506.23831,Bachelor,Divorced,92,Loyal,2,Home,6
+1687,Female,50,59222.62096,High School,Divorced,88,Returning,2,Home,2
+1688,Male,21,76679.8269,PhD,Single,69,New,0,Clothing,4
+1689,Male,42,59854.20668,PhD,Divorced,37,Returning,2,Health,4
+1690,Female,37,62420.99115,PhD,Married,12,Loyal,2,Electronics,9
+1691,Female,51,46067.82284,Master,Single,99,Returning,3,Clothing,9
+1692,Female,43,86622.56513,Master,Divorced,40,Loyal,5,Clothing,5
+1693,Female,22,44027.86984,Master,Single,54,New,2,Health,3
+1694,Male,52,40821.16818,High School,Married,2,Returning,1,Health,1
+1695,Male,45,77142.72378,Bachelor,Single,50,Returning,2,Clothing,6
+1696,Female,46,27886.44082,Bachelor,Divorced,41,Loyal,0,Health,8
+1697,Male,26,22288.87423,High School,Married,45,Returning,5,Health,1
+1698,Male,55,51793.35387,High School,Married,9,Returning,1,Home,1
+1699,Male,23,49973.95215,PhD,Divorced,62,New,1,Health,7
+1700,Female,36,46581.68028,PhD,Divorced,86,Loyal,1,Home,7
+1701,Male,61,64908.94636,Master,Divorced,47,Loyal,2,Clothing,2
+1702,Female,28,36376.90727,Master,Single,5,New,1,Clothing,3
+1703,Male,19,50962.50688,High School,Single,76,New,3,Electronics,2
+1704,Male,64,44598.41071,Master,Single,1,Loyal,4,Health,6
+1705,Male,61,36631.7225,Bachelor,Divorced,44,New,2,Clothing,8
+1706,Female,61,49072.39874,High School,Divorced,22,New,2,Home,8
+1707,Male,26,62788.93705,High School,Single,38,New,2,Clothing,1
+1708,Female,38,81808.52181,Bachelor,Married,19,Loyal,2,Health,9
+1709,Female,41,58691.28474,PhD,Single,80,New,1,Electronics,8
+1710,Female,51,12337.47498,PhD,Married,31,Returning,2,Electronics,9
+1711,Male,39,49427.89872,Bachelor,Divorced,67,Returning,2,Clothing,9
+1712,Male,20,50747.04186,Bachelor,Divorced,87,Loyal,2,Electronics,6
+1713,Male,29,64043.13514,Master,Single,42,New,5,Health,3
+1714,Male,45,52772.15454,High School,Single,82,Returning,2,Health,1
+1715,Female,47,68796.33376,Master,Divorced,26,Loyal,3,Electronics,8
+1716,Female,43,55875.05923,Bachelor,Single,13,Returning,0,Home,3
+1717,Female,38,73381.97104,Master,Divorced,58,New,2,Electronics,7
+1718,Male,45,43418.8112,Bachelor,Divorced,18,Loyal,2,Electronics,6
+1719,Female,43,52165.15201,Master,Married,67,Returning,1,Clothing,3
+1720,Male,50,62399.62303,Master,Single,87,Loyal,2,Home,6
+1721,Female,38,41417.08895,PhD,Divorced,3,Returning,1,Electronics,3
+1722,Male,52,38149.80797,Bachelor,Single,55,Returning,2,Clothing,9
+1723,Male,51,40559.7185,Master,Married,89,New,4,Clothing,1
+1724,Female,58,38761.76574,High School,Married,91,New,3,Clothing,8
+1725,Female,64,57838.42881,Master,Single,58,Returning,1,Health,5
+1726,Female,35,22477.87956,Master,Single,63,Loyal,3,Clothing,4
+1727,Female,28,26660.44961,High School,Divorced,91,Loyal,3,Clothing,1
+1728,Male,40,77941.19739,Bachelor,Married,52,New,4,Health,9
+1729,Female,39,39123.54919,PhD,Married,89,Returning,3,Health,9
+1730,Female,34,53000.22277,PhD,Married,24,New,1,Clothing,5
+1731,Female,22,27662.80373,PhD,Single,72,Returning,2,Electronics,9
+1732,Male,61,51411.86402,High School,Divorced,9,Returning,2,Home,9
+1733,Male,28,39214.89998,Master,Single,37,New,2,Health,7
+1734,Female,47,26553.65753,Bachelor,Single,94,Loyal,3,Home,8
+1735,Male,32,70053.80656,Master,Single,83,New,2,Health,1
+1736,Female,44,67738.48591,PhD,Divorced,53,Returning,0,Clothing,4
+1737,Male,52,48389.67814,Master,Single,80,New,1,Health,4
+1738,Male,50,64991.28549,High School,Married,24,Loyal,1,Clothing,9
+1739,Male,37,78549.39032,High School,Married,21,Loyal,1,Home,3
+1740,Male,33,61311.139,Bachelor,Married,40,Returning,1,Electronics,1
+1741,Female,51,57195.19609,Bachelor,Divorced,62,New,3,Clothing,5
+1742,Female,19,52984.24545,PhD,Single,70,Loyal,0,Home,7
+1743,Female,52,59742.46047,Bachelor,Divorced,69,New,2,Home,4
+1744,Male,57,44541.2091,Master,Single,14,Loyal,1,Health,9
+1745,Female,45,45850.46196,High School,Married,42,Returning,2,Clothing,6
+1746,Female,64,56763.37063,High School,Single,50,Returning,1,Home,6
+1747,Female,56,42892.02695,High School,Single,61,New,1,Electronics,3
+1748,Male,23,44513.00491,Bachelor,Single,4,Returning,1,Health,5
+1749,Male,26,50002.79997,High School,Divorced,72,Loyal,2,Health,6
+1750,Male,37,67259.11326,High School,Single,88,Returning,2,Home,4
+1751,Female,18,33010.0437,High School,Single,75,Loyal,2,Clothing,3
+1752,Female,25,61387.67754,PhD,Single,17,Loyal,2,Health,5
+1753,Female,40,61876.94619,PhD,Divorced,85,Returning,1,Clothing,7
+1754,Male,20,61787.18014,Bachelor,Divorced,57,Loyal,1,Home,6
+1755,Male,21,37898.8043,High School,Divorced,90,Loyal,2,Home,2
+1756,Female,42,24609.77577,Bachelor,Single,48,New,2,Clothing,1
+1757,Male,64,58395.50709,High School,Married,44,New,3,Electronics,5
+1758,Male,55,52813.08177,High School,Married,45,New,2,Health,5
+1759,Male,32,65065.64952,High School,Married,91,Returning,1,Home,6
+1760,Male,38,39491.94758,Bachelor,Single,80,New,2,Electronics,3
+1761,Female,52,61401.77564,Bachelor,Married,90,Loyal,2,Electronics,1
+1762,Male,63,65816.18168,High School,Married,33,Returning,2,Clothing,4
+1763,Male,31,48570.35418,Master,Married,31,Returning,2,Clothing,4
+1764,Male,53,56253.94255,Bachelor,Single,47,Returning,2,Clothing,2
+1765,Male,29,55729.49686,PhD,Married,6,Returning,1,Electronics,8
+1766,Female,34,37677.95706,Bachelor,Married,72,Loyal,0,Health,6
+1767,Female,56,57966.44903,High School,Single,71,Loyal,1,Clothing,3
+1768,Male,26,74337.47511,Master,Divorced,34,New,5,Health,1
+1769,Male,52,50333.05902,High School,Married,53,Returning,4,Clothing,3
+1770,Male,30,28086.12592,PhD,Divorced,14,New,3,Electronics,8
+1771,Male,32,39691.60204,Bachelor,Married,16,Loyal,2,Health,4
+1772,Male,35,23308.55827,Bachelor,Single,43,Returning,2,Health,3
+1773,Male,50,69353.91694,High School,Divorced,73,Loyal,2,Electronics,4
+1774,Female,23,61461.57944,High School,Divorced,74,New,2,Health,4
+1775,Male,44,42479.46092,PhD,Divorced,81,Loyal,0,Electronics,2
+1776,Female,40,28729.10117,Master,Divorced,12,Returning,1,Electronics,4
+1777,Female,44,37500.57563,PhD,Married,70,Returning,1,Home,9
+1778,Male,51,40425.84551,Master,Married,19,New,0,Clothing,4
+1779,Female,63,51641.11399,Bachelor,Divorced,41,Returning,4,Home,1
+1780,Female,55,51136.39015,Master,Married,53,Loyal,2,Electronics,1
+1781,Female,31,70121.47963,Master,Divorced,29,Loyal,0,Electronics,1
+1782,Female,53,39608.67713,Bachelor,Divorced,70,Loyal,2,Health,5
+1783,Female,25,27377.18218,Bachelor,Single,59,Loyal,0,Electronics,6
+1784,Female,52,32645.32287,Bachelor,Divorced,89,New,3,Electronics,6
+1785,Male,36,49654.62718,PhD,Married,64,Loyal,2,Electronics,6
+1786,Female,47,39069.829,Bachelor,Divorced,24,New,1,Clothing,9
+1787,Female,31,45619.87182,High School,Single,89,Loyal,1,Home,1
+1788,Female,37,43189.4963,Bachelor,Married,16,New,3,Home,6
+1789,Male,42,64853.57681,Bachelor,Single,52,Loyal,3,Clothing,8
+1790,Female,57,41195.51469,Bachelor,Single,80,Loyal,3,Clothing,8
+1791,Male,41,44339.86885,Master,Divorced,6,New,0,Clothing,3
+1792,Female,31,60759.25372,PhD,Single,37,Returning,0,Home,5
+1793,Male,43,41525.27133,Bachelor,Single,85,Returning,3,Home,4
+1794,Male,55,56348.18562,PhD,Married,4,Returning,3,Electronics,1
+1795,Female,40,54972.27893,High School,Single,98,New,1,Home,9
+1796,Female,39,52126.48788,High School,Divorced,92,Returning,4,Health,5
+1797,Male,36,32984.05426,Bachelor,Divorced,38,Returning,0,Home,2
+1798,Female,63,68446.61337,High School,Divorced,41,New,1,Clothing,2
+1799,Male,20,83310.25695,PhD,Single,92,Returning,3,Home,7
+1800,Male,59,50132.42207,Master,Married,81,Returning,2,Electronics,4
+1801,Male,36,34304.6769,Bachelor,Divorced,14,Returning,2,Home,1
+1802,Male,26,50436.54062,High School,Single,71,New,1,Clothing,5
+1803,Male,45,64847.90211,PhD,Divorced,86,New,4,Health,2
+1804,Female,37,40772.18486,PhD,Divorced,51,Returning,2,Clothing,7
+1805,Male,62,48066.51224,High School,Married,65,Returning,2,Health,9
+1806,Male,24,55109.81205,PhD,Divorced,93,New,1,Electronics,1
+1807,Female,31,68045.71778,PhD,Married,52,Returning,4,Electronics,2
+1808,Male,26,61631.356,Bachelor,Single,95,New,5,Home,6
+1809,Female,36,62253.01954,PhD,Divorced,30,Returning,2,Electronics,8
+1810,Female,64,43605.97165,High School,Single,57,New,2,Electronics,7
+1811,Female,31,56028.78433,Bachelor,Single,79,Loyal,0,Clothing,9
+1812,Male,55,39170.55009,High School,Single,82,Loyal,3,Clothing,2
+1813,Male,53,62682.8915,Master,Divorced,99,New,2,Home,9
+1814,Male,57,67268.29461,High School,Married,30,Loyal,5,Home,4
+1815,Female,34,58300.45353,High School,Divorced,98,Returning,6,Home,3
+1816,Male,47,44488.8412,Bachelor,Single,42,New,3,Home,7
+1817,Female,26,46944.09308,PhD,Married,11,New,3,Clothing,5
+1818,Male,50,77097.74316,High School,Single,27,Returning,3,Home,5
+1819,Female,42,44739.34333,Bachelor,Married,24,Returning,2,Home,2
+1820,Male,31,65749.91251,Master,Divorced,99,New,3,Electronics,6
+1821,Male,28,55083.37397,Bachelor,Married,39,Returning,2,Home,6
+1822,Male,52,44987.95327,Bachelor,Divorced,72,New,0,Health,4
+1823,Female,58,29830.26459,PhD,Single,18,Returning,2,Electronics,5
+1824,Female,31,53174.00571,High School,Married,77,New,2,Clothing,7
+1825,Male,47,51366.513,Master,Single,45,Returning,2,Health,8
+1826,Male,58,77098.02007,Bachelor,Married,88,Returning,2,Home,6
+1827,Female,21,37097.10957,High School,Divorced,87,Loyal,1,Electronics,5
+1828,Female,21,84421.52887,High School,Married,12,Loyal,2,Home,3
+1829,Female,45,55682.15794,Bachelor,Married,49,Loyal,5,Electronics,7
+1830,Male,25,55667.43832,High School,Divorced,94,Returning,1,Home,8
+1831,Female,19,41103.91798,Bachelor,Divorced,31,New,0,Health,3
+1832,Male,58,54720.59461,Bachelor,Divorced,92,Returning,2,Clothing,5
+1833,Female,63,57095.76392,Bachelor,Married,22,Loyal,0,Health,2
+1834,Male,39,64059.90938,Master,Single,44,Returning,3,Health,4
+1835,Female,58,35325.16689,Bachelor,Married,92,Loyal,2,Clothing,4
+1836,Female,33,71101.71284,PhD,Married,64,Loyal,3,Electronics,8
+1837,Female,46,55421.23286,High School,Single,77,New,4,Electronics,3
+1838,Female,47,59123.43343,Master,Divorced,25,New,1,Clothing,5
+1839,Female,29,46685.86608,High School,Married,51,Loyal,1,Home,5
+1840,Male,52,36077.86043,Master,Single,7,Loyal,1,Electronics,2
+1841,Female,28,51090.86941,PhD,Divorced,6,Returning,2,Health,9
+1842,Female,63,52809.43325,Master,Divorced,24,Loyal,1,Clothing,4
+1843,Female,38,29218.57598,Master,Married,19,Returning,3,Health,9
+1844,Male,38,61899.28108,Master,Divorced,83,Loyal,4,Electronics,9
+1845,Female,22,64947.86951,High School,Divorced,9,New,2,Clothing,2
+1846,Male,37,39055.03064,Bachelor,Single,36,New,3,Clothing,9
+1847,Female,54,34661.21975,High School,Single,40,Loyal,1,Electronics,9
+1848,Female,20,45455.57935,Bachelor,Divorced,93,Returning,1,Electronics,2
+1849,Male,61,50358.42645,High School,Single,24,Returning,4,Clothing,6
+1850,Female,50,46037.43485,PhD,Divorced,48,Returning,3,Home,9
+1851,Male,26,49086.23251,PhD,Married,63,Loyal,1,Clothing,4
+1852,Male,26,53322.16547,Master,Single,69,Loyal,3,Home,2
+1853,Female,21,29475.96592,PhD,Divorced,53,New,2,Health,7
+1854,Male,52,31200.56559,Master,Divorced,54,New,2,Home,9
+1855,Female,34,9165.833886,Bachelor,Single,42,Loyal,4,Home,6
+1856,Female,51,64138.17843,PhD,Single,45,New,2,Electronics,4
+1857,Male,41,50228.40531,Bachelor,Married,90,Returning,2,Clothing,1
+1858,Male,49,65717.76697,High School,Divorced,14,Returning,4,Health,4
+1859,Male,18,32933.93006,Bachelor,Married,29,Loyal,4,Clothing,3
+1860,Male,25,50366.11009,High School,Married,6,Returning,2,Home,7
+1861,Female,62,53222.39759,Bachelor,Married,7,Loyal,1,Home,5
+1862,Female,40,41573.26258,Bachelor,Single,37,Returning,1,Home,3
+1863,Male,64,26698.58302,PhD,Married,53,Loyal,2,Clothing,2
+1864,Female,57,76188.07004,Bachelor,Single,18,Returning,2,Home,2
+1865,Female,29,70989.25012,PhD,Single,87,Returning,2,Clothing,5
+1866,Female,29,44271.01592,PhD,Married,38,New,2,Health,8
+1867,Female,63,57653.41468,Master,Married,59,New,2,Health,8
+1868,Male,64,42728.13985,Master,Divorced,1,New,2,Clothing,5
+1869,Male,32,35068.94595,High School,Married,68,New,2,Health,2
+1870,Female,58,77408.92257,Bachelor,Divorced,44,New,2,Electronics,4
+1871,Male,36,25169.46678,High School,Married,47,New,6,Home,7
+1872,Male,43,45717.44455,Bachelor,Married,35,Loyal,2,Home,6
+1873,Male,46,51264.85741,Master,Married,87,Loyal,1,Home,7
+1874,Female,39,74768.54868,Master,Married,91,New,3,Electronics,5
+1875,Female,57,63448.82981,Bachelor,Divorced,60,Loyal,1,Home,2
+1876,Female,38,24916.25338,Bachelor,Divorced,90,New,5,Clothing,8
+1877,Male,55,49958.74638,Master,Married,52,Loyal,2,Home,2
+1878,Female,37,50315.90298,Master,Married,8,Returning,1,Clothing,8
+1879,Female,46,46574.92497,High School,Divorced,80,Loyal,2,Health,7
+1880,Male,21,59297.13661,Master,Single,41,Loyal,1,Clothing,3
+1881,Female,24,28863.39608,Bachelor,Single,3,Loyal,0,Clothing,4
+1882,Female,45,43870.46131,High School,Single,96,Returning,5,Clothing,7
+1883,Male,45,57182.28122,Bachelor,Divorced,69,New,3,Home,4
+1884,Male,21,60193.63528,PhD,Divorced,84,Loyal,1,Electronics,9
+1885,Male,39,52241.2921,High School,Single,14,Loyal,4,Electronics,7
+1886,Female,29,45674.117,Bachelor,Single,96,Returning,0,Clothing,1
+1887,Female,62,48200.8809,Master,Married,26,New,2,Home,1
+1888,Female,20,61106.10684,PhD,Divorced,70,Loyal,0,Electronics,4
+1889,Male,39,50508.51176,Bachelor,Divorced,58,Returning,4,Health,9
+1890,Male,61,34372.28682,High School,Single,40,New,4,Health,4
+1891,Female,19,31497.53624,Bachelor,Single,51,New,2,Home,5
+1892,Female,41,27655.43868,PhD,Divorced,5,Loyal,2,Health,1
+1893,Male,51,71833.71228,High School,Married,77,Loyal,3,Health,2
+1894,Male,44,62111.92753,PhD,Single,32,Loyal,1,Health,4
+1895,Male,58,48402.68175,Bachelor,Divorced,80,Loyal,4,Electronics,4
+1896,Male,18,43193.11272,Master,Divorced,1,Returning,0,Health,6
+1897,Female,25,41391.04988,Master,Married,77,Returning,2,Clothing,6
+1898,Male,40,66398.55661,Bachelor,Married,54,Loyal,0,Clothing,8
+1899,Female,55,78566.50262,Bachelor,Single,11,New,0,Health,9
+1900,Female,23,40919.10614,Bachelor,Single,53,Loyal,6,Clothing,1
+1901,Female,39,67076.23281,High School,Single,8,New,2,Electronics,1
+1902,Male,42,50420.19373,PhD,Divorced,25,New,1,Home,6
+1903,Male,35,46813.56605,PhD,Single,40,New,2,Clothing,4
+1904,Male,34,72563.21424,PhD,Divorced,32,Returning,4,Health,4
+1905,Male,29,49847.51419,Bachelor,Single,88,New,1,Home,1
+1906,Female,23,54445.46659,PhD,Married,28,New,5,Home,9
+1907,Male,43,53724.10899,Bachelor,Married,78,Returning,1,Health,3
+1908,Male,44,25616.0095,High School,Divorced,3,New,0,Clothing,5
+1909,Female,25,54326.16723,Master,Married,91,New,1,Electronics,1
+1910,Male,36,41559.61963,Bachelor,Divorced,84,Loyal,1,Clothing,8
+1911,Female,59,28682.7029,Bachelor,Divorced,79,New,0,Clothing,3
+1912,Female,18,42242.94379,Master,Married,62,New,4,Electronics,1
+1913,Female,46,42119.16696,Master,Divorced,27,New,1,Home,6
+1914,Female,62,65448.23809,High School,Married,45,New,2,Electronics,1
+1915,Female,52,34043.15576,PhD,Single,92,New,4,Electronics,3
+1916,Female,57,38152.28841,Bachelor,Single,25,Returning,2,Health,5
+1917,Female,31,53530.82391,PhD,Married,61,New,4,Health,4
+1918,Female,52,30113.09343,Bachelor,Married,44,New,2,Clothing,7
+1919,Male,62,40114.89863,High School,Married,97,Returning,4,Health,6
+1920,Male,37,25032.84897,Master,Married,46,Returning,4,Electronics,3
+1921,Male,30,63800.1719,High School,Single,14,New,3,Electronics,8
+1922,Male,55,45479.55319,Master,Divorced,8,New,3,Health,8
+1923,Female,63,49761.23232,PhD,Divorced,48,New,1,Health,2
+1924,Male,25,63740.1548,PhD,Single,14,Loyal,1,Health,7
+1925,Female,60,39165.96675,High School,Divorced,65,Loyal,3,Electronics,1
+1926,Male,37,45320.19487,Master,Single,80,New,2,Home,2
+1927,Male,50,34155.08001,High School,Divorced,82,Returning,3,Home,8
+1928,Male,43,34122.44419,Master,Married,7,New,1,Health,1
+1929,Female,56,36191.25659,Master,Married,79,Returning,2,Clothing,2
+1930,Male,38,42612.64414,PhD,Married,88,Returning,2,Clothing,1
+1931,Female,59,44228.06699,PhD,Single,49,Returning,2,Home,5
+1932,Female,60,54329.48226,Master,Single,55,New,1,Health,7
+1933,Male,58,36631.74578,Master,Divorced,13,New,2,Electronics,6
+1934,Male,26,54794.49014,Master,Divorced,73,Returning,2,Clothing,6
+1935,Male,41,57275.01937,PhD,Divorced,56,Loyal,1,Clothing,6
+1936,Female,54,42982.66726,PhD,Single,56,Loyal,2,Electronics,8
+1937,Male,58,37929.13141,Bachelor,Divorced,15,Loyal,4,Electronics,5
+1938,Female,34,51276.18548,Master,Married,57,Returning,3,Health,7
+1939,Female,41,46956.23805,Bachelor,Divorced,58,New,0,Electronics,3
+1940,Male,38,53305.27744,Master,Married,35,Returning,4,Electronics,9
+1941,Male,56,73547.99654,PhD,Single,88,Loyal,2,Electronics,3
+1942,Female,58,51029.55573,Bachelor,Married,97,New,2,Home,6
+1943,Female,56,40411.54158,Bachelor,Married,16,Returning,2,Electronics,3
+1944,Female,30,36636.65582,High School,Married,8,Returning,3,Clothing,1
+1945,Male,28,37216.97553,Master,Single,93,Loyal,0,Health,1
+1946,Female,63,28058.50539,PhD,Single,87,Returning,1,Health,3
+1947,Male,36,63991.15413,High School,Single,45,New,1,Health,4
+1948,Female,28,16500.81771,High School,Single,95,Loyal,1,Home,2
+1949,Female,30,57321.57227,Master,Divorced,40,Loyal,2,Clothing,9
+1950,Male,63,36979.0414,High School,Single,54,New,1,Electronics,8
+1951,Female,62,42313.92178,Master,Married,14,Loyal,1,Clothing,3
+1952,Male,18,36530.18538,High School,Single,59,Returning,1,Health,7
+1953,Male,57,71687.96989,Master,Divorced,94,Returning,3,Electronics,4
+1954,Female,61,50244.73403,PhD,Divorced,53,Loyal,0,Health,5
+1955,Male,36,61855.67788,Master,Divorced,27,New,1,Health,4
+1956,Male,29,69507.90288,Master,Married,47,Returning,1,Health,9
+1957,Female,25,52451.08211,Bachelor,Single,80,New,3,Clothing,7
+1958,Male,25,32065.64344,PhD,Single,6,Returning,4,Clothing,4
+1959,Male,62,46690.35875,PhD,Single,55,Returning,1,Health,8
+1960,Male,29,38866.2798,PhD,Married,97,Loyal,2,Health,2
+1961,Female,50,42447.43757,High School,Married,44,Loyal,4,Electronics,7
+1962,Male,62,48580.64311,Bachelor,Divorced,18,New,2,Health,1
+1963,Female,43,47987.66537,PhD,Divorced,16,Loyal,0,Health,8
+1964,Female,56,56181.63742,High School,Single,12,Returning,0,Health,6
+1965,Male,45,58359.56441,High School,Married,20,Returning,2,Health,5
+1966,Male,22,47987.82236,High School,Married,45,New,4,Clothing,9
+1967,Male,25,56052.03377,Bachelor,Single,64,New,0,Health,9
+1968,Female,42,41759.60218,High School,Single,59,Returning,0,Home,3
+1969,Male,44,69721.69738,Bachelor,Divorced,93,Loyal,0,Health,9
+1970,Male,63,41517.33068,Master,Divorced,94,Loyal,2,Clothing,9
+1971,Male,40,67957.79727,High School,Divorced,90,New,1,Home,2
+1972,Male,47,27858.99362,PhD,Single,22,New,3,Home,5
+1973,Male,62,44293.89114,High School,Single,97,Returning,1,Health,2
+1974,Female,64,45035.3274,Master,Divorced,47,Returning,3,Health,1
+1975,Female,40,54184.87692,Master,Divorced,29,New,2,Clothing,7
+1976,Male,64,62927.25205,High School,Married,86,Returning,1,Home,4
+1977,Male,37,31259.07195,Master,Married,45,New,2,Home,5
+1978,Male,35,33380.25437,Bachelor,Divorced,77,New,2,Clothing,4
+1979,Male,35,28971.37898,Bachelor,Divorced,9,Loyal,1,Health,6
+1980,Female,19,69802.76296,High School,Married,24,New,3,Electronics,2
+1981,Male,21,54464.07414,Bachelor,Divorced,15,Returning,1,Electronics,8
+1982,Female,47,33734.43187,Bachelor,Married,36,Loyal,1,Home,4
+1983,Female,50,43353.57689,PhD,Married,13,Loyal,1,Home,8
+1984,Male,53,67726.42093,High School,Married,91,Returning,0,Health,3
+1985,Female,35,45828.21155,Master,Single,44,Returning,2,Electronics,5
+1986,Female,54,44942.17793,High School,Single,71,Returning,2,Home,3
+1987,Female,36,38280.5494,Bachelor,Divorced,72,New,1,Health,7
+1988,Female,64,34625.11529,PhD,Married,78,Loyal,2,Electronics,3
+1989,Male,45,67749.85716,High School,Single,76,New,0,Clothing,8
+1990,Male,57,75108.52383,High School,Divorced,36,New,3,Home,9
+1991,Female,37,35222.08396,Bachelor,Divorced,61,New,2,Clothing,2
+1992,Male,50,71074.13494,Bachelor,Divorced,81,New,1,Electronics,3
+1993,Male,29,42689.15876,High School,Divorced,40,Loyal,3,Health,7
+1994,Male,32,58004.71993,Bachelor,Divorced,93,Loyal,1,Health,5
+1995,Male,58,71153.20707,Bachelor,Married,27,New,2,Electronics,7
+1996,Male,56,47823.85106,Bachelor,Divorced,1,Returning,2,Clothing,2
+1997,Female,19,45080.8712,Bachelor,Married,34,Loyal,0,Health,4
+1998,Male,46,62016.21446,Bachelor,Single,68,New,6,Home,1
+1999,Male,58,33350.70744,PhD,Divorced,88,Returning,2,Clothing,5
+2000,Male,27,67205.92067,Bachelor,Single,21,Returning,0,Clothing,8
